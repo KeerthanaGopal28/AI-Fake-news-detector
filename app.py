@@ -4,15 +4,15 @@ import os
 import re
 import pandas as pd
 
-# -------------------------------
+
 # CONFIGURE GEMINI API
-# -------------------------------
+
 st.set_page_config(page_title="Fake News Detector", page_icon="📰")
 st.title("📰 Fake News Detector")
 
-# -------------------------------
+
 # Persistent Login Button at Top
-# -------------------------------
+
 USERS_FILE = "users.csv"
 
 def save_user(username, password):
@@ -50,9 +50,9 @@ if st.session_state['show_login']:
 if 'username' in st.session_state:
     st.info(f"✅ Logged in as: {st.session_state['username']}")
 
-# -------------------------------
+
 # Gemini API / News Analysis
-# -------------------------------
+
 api_key = st.secrets.get("GOOGLE_API_KEY") or os.getenv("GOOGLE_API_KEY")
 
 if not api_key:
