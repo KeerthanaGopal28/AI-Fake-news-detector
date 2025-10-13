@@ -68,7 +68,7 @@ else:
         if not text.strip():
             st.warning("Please enter some text first.")
         else:
-            with st.spinner("Analyzing with Gemini..."):
+            with st.spinner("Analyzing"):
                 prompt = f"""
 You are a news credibility assessor. 
 For the following text, output 3 things in this format:
