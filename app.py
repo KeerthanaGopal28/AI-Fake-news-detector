@@ -1,7 +1,8 @@
 import os
 import re
-import google.generativeai as genai
 import streamlit as st
+from google import genai
+from google.genai import types
 
 # 1. Page Configuration
 st.set_page_config(
@@ -13,7 +14,7 @@ st.caption(
     "Grounded with Google Search to analyze news authenticity and context in real-time."
 )
 
-# 2. In-Memory Session Authentication (Replaces Insecure CSV Storage)
+# 2. User Session Setup
 if "authenticated_user" not in st.session_state:
     st.session_state["authenticated_user"] = None
 
@@ -36,7 +37,7 @@ with st.sidebar:
                 else:
                     st.warning("Please fill in both fields.")
 
-# 3. Gemini API Setup & Grounded Search Analysis
+# 3. Gemini API Setup (New Google GenAI SDK)
 api_key = st.secrets.get("GOOGLE_API_KEY") or os.getenv("GOOGLE_API_KEY")
 
 if not api_key:
@@ -44,15 +45,14 @@ if not api_key:
         "⚠️ API key not found! Please configure `GOOGLE_API_KEY` in Streamlit secrets or environment variables."
     )
 else:
-    genai.configure(api_key=api_key)
+    # Initialize Client using new SDK
+    client = genai.Client(api_key=api_key)
 
-    # Streamlit caching: Prevents duplicate API hits for identical queries
     @st.cache_data(ttl=3600, show_spinner=False)
     def analyze_news_text(news_text: str):
-        # Pass tools as a dictionary inside a list: [{"google_search": {}}]
-        model = genai.GenerativeModel(
-            model_name="gemini-2.5-flash",
-            tools=[{"google_search": {}}],
+        # Configure Live Search Grounding
+        config = types.GenerateContentConfig(
+            tools=[types.Tool(google_search=types.GoogleSearch())]
         )
 
         prompt = f"""
@@ -67,10 +67,13 @@ Provide your response strictly in the following structured format:
 Text to analyze:
 {news_text}
 """
-        response = model.generate_content(prompt)
+        # Call Gemini model with grounding config
+        response = client.models.generate_content(
+            model="gemini-2.5-flash", contents=prompt, config=config
+        )
         return response.text.strip()
 
-    # Main Interface Input
+    # Main Dashboard Input
     st.subheader("Paste the News Article or Headline Below 👇")
     text_input = st.text_area("News Text:", height=150)
 
@@ -84,7 +87,7 @@ Text to analyze:
                 try:
                     output = analyze_news_text(text_input)
 
-                    # Parse credibility result for visual status display
+                    # Extract Credibility line
                     credibility_match = re.search(
                         r"CREDIBILITY:\s*(.*)", output, re.IGNORECASE
                     )
@@ -94,7 +97,7 @@ Text to analyze:
                         else "UNVERIFIED"
                     )
 
-                    # Dynamic Visual Indicators
+                    # Visual Status
                     if "fake" in credibility.lower():
                         st.error(f"🚨 **Verdict:** {credibility}")
                     elif "real" in credibility.lower():
@@ -102,14 +105,13 @@ Text to analyze:
                     else:
                         st.info(f"ℹ️ **Verdict:** {credibility}")
 
-                    # Detailed Analysis Breakdown
                     st.markdown("### 📋 Analysis Breakdown")
                     st.write(output)
 
                 except Exception as e:
                     st.error(f"Analysis failed: {e}")
 
-    # Feedback Form
+    # Feedback Section
     st.markdown("---")
     st.subheader("💬 Community Feedback")
     with st.form("feedback_form"):
