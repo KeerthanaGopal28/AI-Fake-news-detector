@@ -6,7 +6,9 @@ from google.genai import types
 
 # 1. Page Configuration
 st.set_page_config(
-    page_title="AI Fake News & Fact Checker", page_icon="📰", layout="wide"
+    page_title="AI Fake News & Fact Checker", 
+    page_icon="📰", 
+    layout="wide"
 )
 
 st.title("📰 Real-time AI Fake News & Fact Checker")
@@ -14,30 +16,7 @@ st.caption(
     "Grounded with Google Search to analyze news authenticity and context in real-time."
 )
 
-# 2. User Session Setup
-if "authenticated_user" not in st.session_state:
-    st.session_state["authenticated_user"] = None
-
-with st.sidebar:
-    st.header("👤 User Session")
-    if st.session_state["authenticated_user"]:
-        st.success(f"Logged in as: **{st.session_state['authenticated_user']}**")
-        if st.button("Logout"):
-            st.session_state["authenticated_user"] = None
-            st.rerun()
-    else:
-        with st.form("login_form"):
-            username = st.text_input("Username")
-            password = st.text_input("Password", type="password")
-            if st.form_submit_button("Login / Session Start"):
-                if username and password:
-                    st.session_state["authenticated_user"] = username
-                    st.success(f"Welcome, {username}!")
-                    st.rerun()
-                else:
-                    st.warning("Please fill in both fields.")
-
-# 3. Gemini API Setup (New Google GenAI SDK)
+# 2. Gemini API Setup (Google GenAI SDK)
 api_key = st.secrets.get("GOOGLE_API_KEY") or os.getenv("GOOGLE_API_KEY")
 
 if not api_key:
@@ -45,7 +24,7 @@ if not api_key:
         "⚠️ API key not found! Please configure `GOOGLE_API_KEY` in Streamlit secrets or environment variables."
     )
 else:
-    # Initialize Client using new SDK
+    # Initialize Client using the modern SDK
     client = genai.Client(api_key=api_key)
 
     @st.cache_data(ttl=3600, show_spinner=False)
@@ -67,27 +46,27 @@ Provide your response strictly in the following structured format:
 Text to analyze:
 {news_text}
 """
-        # Call Gemini model with grounding config
+        # Call Gemini 2.5 Flash model with search grounding config
         response = client.models.generate_content(
-            model="gemini-2.5-flash", contents=prompt, config=config
+            model="gemini-2.5-flash", 
+            contents=prompt, 
+            config=config
         )
         return response.text.strip()
 
-    # Main Dashboard Input
+    # 3. Main Interface & Input
     st.subheader("Paste the News Article or Headline Below 👇")
-    text_input = st.text_area("News Text:", height=150)
+    text_input = st.text_area("News Text:", height=180, placeholder="Paste a headline or short paragraph to analyze...")
 
     if st.button("🔍 Check Credibility", type="primary"):
         if not text_input.strip():
             st.warning("Please enter news text to analyze.")
         else:
-            with st.spinner(
-                "Cross-referencing live search results and verifying sources..."
-            ):
+            with st.spinner("Cross-referencing live search results and verifying sources..."):
                 try:
                     output = analyze_news_text(text_input)
 
-                    # Extract Credibility line
+                    # Extract Credibility verdict via regex
                     credibility_match = re.search(
                         r"CREDIBILITY:\s*(.*)", output, re.IGNORECASE
                     )
@@ -97,7 +76,7 @@ Text to analyze:
                         else "UNVERIFIED"
                     )
 
-                    # Visual Status
+                    # Dynamic Visual Indicators
                     if "fake" in credibility.lower():
                         st.error(f"🚨 **Verdict:** {credibility}")
                     elif "real" in credibility.lower():
@@ -105,19 +84,9 @@ Text to analyze:
                     else:
                         st.info(f"ℹ️ **Verdict:** {credibility}")
 
+                    # Detailed Analysis Display
                     st.markdown("### 📋 Analysis Breakdown")
                     st.write(output)
 
                 except Exception as e:
                     st.error(f"Analysis failed: {e}")
-
-    # Feedback Section
-    st.markdown("---")
-    st.subheader("💬 Community Feedback")
-    with st.form("feedback_form"):
-        user_feedback = st.text_area("Was this prediction accurate? Comments:")
-        if st.form_submit_button("Submit Feedback"):
-            if user_feedback.strip():
-                st.success("Thank you for your feedback!")
-            else:
-                st.warning("Please write your feedback before submitting.")
