@@ -1,8 +1,8 @@
-# 📰 Real-Time AI Fake News & Fact Checker
+# Real-Time AI Fake News & Fact Checker
 
 An enterprise-ready news credibility assessor built with **Python, Streamlit, and Google's Gemini 2.5 Flash model**. The application leverages **live Google Search Grounding** to evaluate real-time claims against current web information, helping overcome static LLM knowledge cutoffs and reduce AI hallucinations.
 
-## 🏗️ System Architecture & Execution Flow
+## System Architecture & Execution Flow
 
 ```text
 [ User Input / Headline ]
@@ -31,7 +31,7 @@ An enterprise-ready news credibility assessor built with **Python, Streamlit, an
           (Verdict, Summary, Keywords)
 ```
 
-## 🔑 Key Features
+## Key Features
 
 * **Real-Time Web Grounding:** Uses Google's native search retrieval capabilities to evaluate claims against current web information.
 * **Intelligent Query Caching:** Uses Streamlit's `@st.cache_data` with a **1-hour TTL** to reduce redundant API requests and improve response time.
@@ -39,7 +39,7 @@ An enterprise-ready news credibility assessor built with **Python, Streamlit, an
 * **Dynamic Visual Statusing:** Uses regex pattern matching to extract confidence values and display formatted status alerts using `st.success()`, `st.error()`, and `st.info()`.
 * **Structured AI Responses:** Parses the Gemini response into meaningful verdict, summary, confidence, and keyword information.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Component            | Technology                   |
 | -------------------- | ---------------------------- |
@@ -51,7 +51,7 @@ An enterprise-ready news credibility assessor built with **Python, Streamlit, an
 | Caching              | Streamlit `@st.cache_data`   |
 | Session Management   | Streamlit `st.session_state` |
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -88,14 +88,14 @@ streamlit run app.py
 
 The application will start locally and can be accessed through the Streamlit URL displayed in the terminal.
 
-## 🛡️ Security & Environment Notes
+## Security & Environment Notes
 
 * The `.streamlit/secrets.toml` file should be included in `.gitignore` to prevent API keys from being committed to public repositories.
 * API credentials are stored through Streamlit secrets rather than hard-coded in the application.
 * User inputs and session-specific information are maintained using Streamlit's temporary `st.session_state`.
 * **Never expose or commit your Gemini API key to GitHub or other public repositories.**
 
-## 📁 Project Structure
+## Project Structure
 
 ```text
 fake-news-detector/
