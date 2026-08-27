@@ -1,0 +1,21 @@
+id,claim,ground_truth,category
+1,"The Earth revolves around the Sun.",REAL,Science
+2,"Water freezes at 0 degrees Celsius at standard atmospheric pressure.",REAL,Science
+3,"NASA's Perseverance rover landed on Mars in February 2021.",REAL,Space
+4,"The Moon is larger than Earth.",FAKE,Space
+5,"The Earth is flat.",FAKE,Science
+6,"Humans can breathe normally in the vacuum of space without a spacesuit.",FAKE,Science
+7,"WhatsApp will shut down every night from 11:30 PM to 6 AM in India.",FAKE,Technology
+8,"The Sun is a star.",REAL,Science
+9,"The Pacific Ocean is the largest ocean on Earth.",REAL,Geography
+10,"The Great Wall of China is visible from the Moon with the naked eye.",FAKE,History
+11,"North Korea is preparing to send another 50,000 troops to Russia to fight in the Ukraine war.",UNVERIFIED,World
+12,"A human can survive indefinitely without drinking water.",FAKE,Science
+13,"India launched Chandrayaan-3 in 2023.",REAL,Space
+14,"Chandrayaan-3 successfully landed near the Moon's south polar region.",REAL,Space
+15,"All artificial intelligence systems always provide factually correct answers.",FAKE,Technology
+16,"The speed of light in vacuum is approximately 300,000 kilometers per second.",REAL,Science
+17,"The Amazon rainforest produces 100 percent of the world's oxygen.",MISLEADING,Environment
+18,"Every earthquake can be accurately predicted days in advance.",FAKE,Science
+19,"Social media posts are always reliable sources of factual information.",FAKE,Technology
+20,"A claim circulating online is automatically true if thousands of people share it.",FAKE,Media
