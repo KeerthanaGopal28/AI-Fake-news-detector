@@ -1,0 +1,92 @@
+{
+  "verdict": "MISLEADING",
+  "confidence": 70,
+  "summary": "While North Korea has previously sent troops to Russia in support of the Ukraine war, the claim that North Korea is 'preparing to send another 50,000 troops' is primarily based on unconfirmed warnings from Ukrainian officials and has been denied by North Korea. South Korean intelligence reports general preparations for deployment but no imminent dispatch of such a large additional force.",
+  "claim_analysis": [
+    {
+      "claim": "North Korea has previously sent troops to Russia.",
+      "status": "SUPPORTED",
+      "explanation": "Multiple sources confirm that North Korea has deployed troops to Russia since October 2024. Estimates of these deployments vary, with reports of 14,000 to 16,000 initially sent to the Kursk region, around 8,500 currently stationed, and up to 25,000 having rotated through Russian military operations."
+    },
+    {
+      "claim": "North Korea is preparing to send another 50,000 troops to Russia.",
+      "status": "UNVERIFIED",
+      "explanation": "The specific number of 50,000 additional troops and the immediate preparation for such a deployment are based on warnings and estimates from Ukrainian President Volodymyr Zelenskyy and Ukrainian intelligence officials. However, Kim Yo-jong, sister of North Korean leader Kim Jong-un, has explicitly denied these claims, calling them 'groundless' and 'a self-staged incident'. South Korea's military has stated that while North Korea 'continues to prepare for a deployment,' no signs of an 'imminent dispatch' of a further large contingent have been detected."
+    },
+    {
+      "claim": "These troops are to fight in the Ukraine war.",
+      "status": "SUPPORTED",
+      "explanation": "North Korean troops were deployed to Russia's Kursk region, initially to repel Ukrainian forces. While some reports suggest their roles include border security and demining, freeing up Russian forces, their presence contributes to Russia's war effort in Ukraine and provides North Korean soldiers with combat experience."
+    }
+  ],
+  "evidence": [
+    "North Korea has already deployed troops to Russia's Kursk region since October 2024, with estimates ranging from 8,500 to 16,000.",
+    "Ukrainian President Zelenskyy and Ukrainian intelligence officials have warned that North Korea plans to send up to 50,000 additional troops.",
+    "Kim Yo-jong, a high-ranking North Korean official, has denied claims of an additional deployment of troops to Russia, calling them 'groundless'.",
+    "South Korea's military indicates North Korea is preparing for deployment but has detected no signs of an imminent dispatch of a further large contingent.",
+    "The deployment of North Korean troops to Russia is part of broader military cooperation supporting Russia's war effort in Ukraine."
+  ],
+  "keywords": [
+    "North Korea",
+    "Russia",
+    "Ukraine war",
+    "troops",
+    "50,000",
+    "military aid",
+    "deployment"
+  ],
+  "sources": [
+    {
+      "title": "atlanticcouncil.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVOVSEkmEWxXkG3PcaHT58iKcJdWpj2P1Sc3hksUe0vGo0vpEtfDB8bmxEHf0hdFww5RuIBt1GfNa7dQKq-16djdWkM-WlpCq0ZBVqwD3JSARun7oeP5NEGhtW35BUmZRMCV3k3ud90RMOop07LLzALHbmM18S38eUsS-dt4jx9on5J7Mfb4QTPMuB94YdU3dF_07UQ-jQG8HqW-bDa_YwRSE5kAaIpKe9x640cPgm_X2TDpSPOEYMIWO56jLI"
+    },
+    {
+      "title": "38north.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0xFGjCD-2dwZAhIbOUNy18VTLH7TVYZXn4IVvPYlKKLA_yvpcQFdqn-Aokc9B7sNCJHXLgJQa01By8g8K6HMxRYxJ3P-KBWrG76F4YgiuTF0D-1lG49MnhpFXgMIytXLpG3kQBEMhI20OFB93UpA1uFdQoECCekRzEWgmOdS2SZJWQ-V43Z_DeEiblEs_LzBBee85CGQW5XzgMdPb3oc1oyIEfVExrbeAPovAEHWt"
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDDNWBEwUqdXwyFT2a5pGohEuV5_nvcNnGW2M4uoEdt0oRuSPq1fMSpbR5CzWpMuwf9ochfqexPORAJOnmsHI7jRKaaArNxATMzgESW4JVCQ-VZo5zIpNbmXcQze7CKsRWTtSrRBG4RG1nTUg_ICJLtP-xdzyCxJjGlirx9-wI0UGEj3qCOeAMoZ2whaNU3LLrwCRQu9Uq_VUbI6D7wlyla0WQ"
+    },
+    {
+      "title": "livemint.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHITWfzYejvna6_Mumb6KrmMhxBwE_O-dyZBLMzJK7EPwOaZnm_VpRgFt4Y2G8VafMFNJco1J_4D7hevO0xn2EV8hxpGLzeJdCxd4SutCE8BJIJLmjKKe2b0q-NMzbAMB1h7kWBREsifa_RLjUDeOrHYJs-Fs5kI0s_k3n7fPKAzpv3OmBDhNU_zgmX7_588q3DpQE4_ssN1239y49VT9VojMkrT4JdiPxrnrLco-Wp7kUMrYMLaNvuI6PZvr1aou-9bzY="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvMGZUaVy9SZ4xyf5YUE3WwRuTogAYuIh7QneEfJxa2IyWvz7v5LMuG-AFIhVblTphurCzi0Uw_sUmrRh7NJGp4aK-5_xffy90VXwvk2SIbe3fzcLdoN1eEcisP_Bs_uBKg4QhFgQ="
+    },
+    {
+      "title": "sedaily.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-Km-XIlOaTY780rUTVj_6MI5gE0Rg95-9N-trQ81JESaYmTS8j5Lcd2jaaSL54NLMmqwxlOpVYjb9JHAOH2_3TosDvaztOq5GvGBWEvobG3adtL9_icAKA479tzv2d7xL9FfT9tPljmeRbdTff36NbHwbJM7RzarwQS8QKXBojFprlsejRhdb1bV1eyEzv_2Ug7pxhONZiKjVOYq3ULNl"
+    },
+    {
+      "title": "csis.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlgdvNOo3RuDNs0C7KfRJCNgLwgIwII4grwIjdim7YJ3fhb2wafwEs2OWsIIfoUt5qX1qggg1W2gsDNesD8k7HD4B_fduQFj3T06kedqJQxmRV0KtatjIqEeEXut8MlZBm02swXyDEZPrPY6DUcIyirH4Hjy34mCe_tQ=="
+    },
+    {
+      "title": "asiatimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUDBhL6P6v2UMB5ZOE4KfPTanh9hd4JKzEXVla08V8kZizyHunznCNQpHBq24rElfEdg8dij5klZN3ScN1V4EDxsSe6XXNbtFD40Kr2G4_5RfemfP_KveJIBWVYXfvxnEL1f5CXPuatbf7jypqnqaZeAEREMHWghrMQfUx8OcYpFFfpwj0qaJ04cN14kedP7qI2822dFCy2zBcTQ=="
+    },
+    {
+      "title": "theguardian.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1hCgdjFaPDR7p8VpIq4mR4FfHwKARrh6yeYZm_tlDH5u-4Noaje_H-f2Ba7Ea5lONk-Nn7r19CxHagS3Lsz2BhPycC_z0Ne9Z2prlF8V0FnTDqNNt24OU6rx9__cCCNJjWdPO2lpq7vv_847f_87i2rkNPpE1rtLJEWoS7TthoknyQ2XGPmP27JdHrvFVHAthOtdLlvrCpX_WFvGdxnY687s5OFZePEBagw-47nrpQG1L"
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdRbn7rXZEIXH6S44VD09_LumHK9WKn2QgyFu37_NNyG1TlPPrEg8xzY3ICya8WC5GPw7LujgmQUodMorcZ5Kovwt6Mgc2aIxC7KTQmEPuQ3FmOvxnH9mJGqk1HtWAYQ9pCistVx6j19gQLh-TbUhG4ZFRONY0ikj63cHqnx1KrbY4jHGv-oK1HzMntKCXZPXCpMeJD3r9lsafU2pSUQ=="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCzpM1j0WQRh8es7LHJIbx0V6KRUG7XxK7E459sPG7QXK8YbNlPKKVu5c8H2UE8xCHXzb0pSDqBeYs9s6AlP9Mn6Cl0x8I2p1MbjGpmdE5-nAYqgCBwPba-5Q6NQY8arxNqdWuaw=="
+    },
+    {
+      "title": "scmp.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcbjnX9ObGMCDGA2WNWPb_5u25Dh_9M3fVbKHtvxXeWzuJvCmpKdqEEqrDYyqvCYBAxnxEMS8ibvFlTJlHN19qoWXjdSBRqFUliZyqqpPdpZyog9jhfqqexiBS9tDaeEsfQc-8tSHFA_hA911Kn_vcjEqsUOLF24VnszZn_E-TRRLIm4BclpSbYQihxOf8yIK8XfrnKMMPsRoZN5CAj0OqOq3Tfpd9x8nBtdlci39LxlBTiixngKd7R34oYH91"
+    },
+    {
+      "title": "rand.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-jId91cvxKr-ZHA4Ut0pa9EFFt5YQgpm0ovTcxHEWzN1xxYDc3IKnouvmBxO3crUeTxyszpbk3eSSMxHr6cLjk3Di23MTyPc2J8Fau8fGJzS2eed2rymkgRxYmtMp3S6RhlqmRmJRPHl7DKsq4iHYmkMnGzcgK3yycjiVn62-noLsa6qwRhiHy1OiUtV7v_c4QcODELzKldCeh4-NK7n799tHIqs1Z4I="
+    }
+  ]
+}

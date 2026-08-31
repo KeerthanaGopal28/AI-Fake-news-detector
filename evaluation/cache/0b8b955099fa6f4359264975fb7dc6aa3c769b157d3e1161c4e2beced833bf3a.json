@@ -1,0 +1,89 @@
+{
+  "verdict": "REAL",
+  "confidence": 100,
+  "summary": "Chandrayaan-3 successfully landed near the Moon's south polar region on August 23, 2023, making India the first country to achieve a soft landing in this area.",
+  "claim_analysis": [
+    {
+      "claim": "Chandrayaan-3 successfully landed.",
+      "status": "SUPPORTED",
+      "explanation": "Chandrayaan-3's lander, Vikram, successfully soft-landed on the lunar surface on August 23, 2023. This event was widely reported by numerous reputable sources, confirming the mission's success."
+    },
+    {
+      "claim": "The landing was near the Moon's south polar region.",
+      "status": "SUPPORTED",
+      "explanation": "Chandrayaan-3 touched down near the lunar south pole, at approximately 69°S latitude, on August 23, 2023. This made India the first country to achieve a soft landing in this specific region. The landing site has been named 'Statio Shiv Shakti' and is located between the Manzinus C and Simpelius N craters, about 600 kilometers from the Moon's south pole."
+    }
+  ],
+  "evidence": [
+    "Chandrayaan-3 touched down near the lunar south pole, at 69°S, on 23 August 2023 at 18:04 IST (12:33 UTC).",
+    "With this landing, ISRO became the fourth national space agency to successfully land on the Moon... and the first in human history to achieve a soft landing near the lunar south pole.",
+    "The spacecraft launched on July 14, 2023 and touched down in the Moon's south polar region on August 23, 2023.",
+    "On 23 August, after a nail-biting wait, ISRO confirmed that Chandrayaan-3's lander had successfully touched down in the Moon's southern polar region as planned.",
+    "On 23 August 2023, the lander Vikram successfully soft landed in the lunar south pole region, achieving humanity's first soft landing in the region and making India the fourth country to soft land on the Moon after the Soviet Union, the United States and China.",
+    "India's Chandrayaan-3 mission made history on August 23, 2023, achieving a successful soft landing near the Moon's south pole — a region never explored this closely before.",
+    "India's Chandrayaan 3 makes successful lunar landing.",
+    "India's space agency successfully landed their Chandrayaan-3 lander on the lunar surface, becoming the fourth country to touch down on the Moon and the first to land at one of the lunar poles.",
+    "India's Chandrayaan-3 lander successfully touched down on the surface of the Moon Wednesday...",
+    "Chandrayaan-3 landed at about 69 degrees south latitude, closer to the lunar south pole than any craft before it.",
+    "Shiv Shakti Point is the landing site of Chandrayaan-3, the third lunar mission of ISRO. The mission's lander Vikram and rover Pragyan landed 600 km from the south pole of the Moon on 23 August 2023.",
+    "India has made history as its Moon mission becomes the first to land in the lunar south pole region."
+  ],
+  "keywords": [
+    "Chandrayaan-3",
+    "Moon landing",
+    "south polar region",
+    "Vikram lander",
+    "ISRO",
+    "August 23 2023"
+  ],
+  "sources": [
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKohDFvgU5m1Rr5ITrsUvXqQ_Lb3dwnaVpD3tVMbyywfi9LBxwy7nlOeTNm1UddGIcuo19BWnn33NDNyPdHOt0TnUmHA0Sl2kfNd-T3olW7-mMqbS3-6kX6u8bmkpZCCWrTHSPBgc="
+    },
+    {
+      "title": "esa.int",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZI7UsFaq208euo2vG6ToaRPUPage57C_lVcPXOqMyDU22gccS6R1ZI_KDBO8U3uHJiiNCZYhhgRNogsZGtMseuOikZLTL58csN_o5FlbE0E4otKARQo56Txsh9SR74kgZ10X8El_D7EhaRQgYrglS7gYnXpwrvbZDwMLzTAKTzb7wqoS3ZUk4tWPlVqSJanmJoUUSDTNOh8hK7bP2Hqk="
+    },
+    {
+      "title": "spaceflightnow.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSLZ7q1txc2FnukRy3bEnAyAC4Qs18hUx477FT3zcNYPmYE5F2voBv6_WvJDIwX4efNckLgzQBLU7338qYJFOtjhX9IfX3HLZ2NqEWNhCevpV-rtkSB-4j1RNGx-3MbgA6Rpj5fpCWy7zi3xeeRLe07fMEb0izJua8rmVHTq4b39vYx54S_hfBWfOJ1cJFfKrBnuVBl_ODGniV-iodexkIxi4="
+    },
+    {
+      "title": "universetoday.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9diTAlylMxiRvthtx5s92qY21qW9O4Fp08WSraTw1YJ2f704RbBG4G_8GE-GhEXaNGt6WhDz09-CWTRZ_yk7lFqEwk8zz9uvNHA13k_YNNJ0vkvZbNi0_dRdc0SSiIKFxxo4LhRYk-gEcdquddhiRBZeGZQ9MfYWKVU2ZrZZ4vnbCKSlaAh7Up8kKAUBpHOnV_kYGZ1swvA_q"
+    },
+    {
+      "title": "axios.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaY1WC8KvZjUokDHz69Enu4CqWVIlHGVS2b-n6aoIvfyGUaeP4p4M2-3reuCDxIs8cFmI-GwYBwQO5sUxGwjU2XM2AxL7cUJdwu-x1jOPVnt8xtm_LAcaiU6UxmZsgD4lujP-geWHaDMTIFCBeRRc_9xbXamFipDCD2jDp45ojDMc4El5LIA=="
+    },
+    {
+      "title": "planetary.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSboi3rpaW0KCWaU84BdHpYILVhaSkbR2-3FjQC-PLhbd96vnscgYgELDzNtdIG7qRAlPXP-aLvk995myQflwbOKfw6HTcmPHoOXBR-gMssq4tipVmvY9zmVuPpmBHGq8vfrZNe0fDrmsu90i-u2UaZA=="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh8WaWJqYrK0Qu7OLYn_nHGRJyf_wjjbETpLUlG2PkXZqxZPN1AbqRVD1s5FWfF-McXxp9nWd7B6tRHdW3MGm08YkVE4B5ocvbXBtk7xRmBv7iDMMojNx-_RA0MlDzMtsQAUeqTY41xvwBz-IjYw=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE92Pq4z4L4HYAghmq8hx-hcv-XjiydY7ZlmLJpsNwSN_8sp5Wd6FGJIDc6FlK8TJxuwza4AO5HgaiIjZxEecfg3cro769CBMe_itPv2Y9CYcgM4m0CKbwJUz6l_YKI2cBy7jaEMUsFoxTHnJcWkWofr-8QEtk3FK61QNX4zs6nVgvl7wbDfLokwMWAyaw9jDTOvHvJ6FsE9S4-3xlILY0rRV1QtoQav7zYoz_QBa2c0Ss0dd_hKYKdw9omg7G1Syt9TRNRaw=="
+    },
+    {
+      "title": "lunarregistry.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAijW9pRd97dxO8LEGcjezv1s7ylH5n2ZgMfY9ftnkUSPJSl6fT_K7--mMiyXg4Keu2sh4BYTgCOUc3rbG5px3bgGHyI1KuLrKW2rCJsNSCTyshx-epEg4rZp7c-_fFCrJv4UTmJ0Y-aPjwCoZg90BPK6evAcYzLkceg=="
+    },
+    {
+      "title": "nationalgeographic.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETFuzq-mwt9-aRMQkF1ZFVLC4gvDNJIbgQThFbroZXvHcOOE0H1JoIDzcH0iaHUPxx-fVVYjtyLvwphh1lSqVoKwfLqNhxD3H4Iy2gklFa03i4YDQMQw8Aa8YzV5yNSKpfyNbtUd_dbOVcfGu1k5euENBzr3J7b8bKBtGRossAiZVARA8lt55FNRw-z0z2bWbNShtcapyFK6g="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8UHC_QCOgtuehfPT9zVJiQvUOB-td3V1ra-V1FAUqfvKoqmd5ymIPTh4Jh9aKZlkEd1DfNceCZfGco0PzXg2FyetX2F--jQEskFbPQT9x_uSRhfjwipguWwvE_kqfQwDCPu-_xMomEyjw7A=="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiakCX5jJH8eRiE931YUmNDeijYS1sYeP3VWPu7Ji489Ml48mbNK6XHmiYmFhA6sPlQw_zAtw2SuUXr8i23UCVqlqm2zTzdFHMcW7duJhY-NXtksb695k92dNxWiEfz_8kOnc4lCI="
+    }
+  ]
+}

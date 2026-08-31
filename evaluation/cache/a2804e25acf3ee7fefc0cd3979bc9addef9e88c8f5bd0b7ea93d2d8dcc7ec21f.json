@@ -1,0 +1,62 @@
+{
+  "verdict": "REAL",
+  "confidence": 100,
+  "summary": "The news claim is accurate. NASA's Perseverance rover did land on Mars in February 2021.",
+  "claim_analysis": [
+    {
+      "claim": "NASA's Perseverance rover",
+      "status": "SUPPORTED",
+      "explanation": "Perseverance is indeed a rover operated by NASA as part of its Mars Exploration Program and Mars 2020 mission."
+    },
+    {
+      "claim": "landed on Mars",
+      "status": "SUPPORTED",
+      "explanation": "The Perseverance rover successfully landed on the surface of Mars."
+    },
+    {
+      "claim": "in February 2021",
+      "status": "SUPPORTED",
+      "explanation": "The landing occurred on February 18, 2021, in the Jezero Crater."
+    }
+  ],
+  "evidence": [
+    "The Perseverance rover is a NASA rover that has been exploring Mars since February 18, 2021, as part of the Mars 2020 mission.",
+    "Mars 2020 is a NASA mission that includes the rover Perseverance, and landed in the Martian crater Jezero on February 18, 2021.",
+    "Perseverance is a NASA Mars rover that landed on Feb. 18, 2021.",
+    "Perseverance successfully landed on the surface of Mars on 18 February 2021 at 8.55pm GMT.",
+    "NASA's Mars 2020 Perseverance rover will land on Mars on Feb. 18, 2021."
+  ],
+  "keywords": [
+    "NASA",
+    "Perseverance rover",
+    "Mars",
+    "landing",
+    "February 2021"
+  ],
+  "sources": [
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0vHHbEFWZqYRui3HbI-7MzFnw7lbDR4_-qX5L5H345e2TSHje1ieQ_NyNF4DUNI0vA14zWdGQ1v9K7P3hxa5WBkwX803OJWVQpXgKQzIE9W_0BcGz8_FyPYJOlR7smmwmxFxtai_LYfFE09kz"
+    },
+    {
+      "title": "nasa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhL8uZISCG94uNnqgIqmQU43JBThXfNiaRr5bRa05ZYrdxifdAnN2W0x-pQZD6X5f_8ZNS1HPw28Xo2mIJeEB8XA6PE06-o_OGGYGjjZ8j9eoBwKjBx5SYjL7uw49Z9ECTsyURkSPWKhZ0vJaTsiuLxNu-ZN4fNeDVlw=="
+    },
+    {
+      "title": "planetary.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQhLTn7b7i5RoalkgRYyJJdf133HDOxxG_sFfW_Ls5Pi3MVzrDIGmXKSg5C7WWl5421B4MV6g5vCdMj8veLW8G-MR-Y9weWcFfLHiFOL9Zn08ltzR95brLnetVI7gkKLjC2oo4JNgGoZ1lAmrrn0KI"
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGh0hvjsrnqn9n6WRvk4jWVrx4TD2nv01uC7j7QxL-0FlgCpxnpdaV0LNc9O0VaAAjvbQyORRts0x6CKRLQLoCRWDLTLpBybYVOpOwLmxlMdBTCte-RSJLslSBIl_anntzefQ=="
+    },
+    {
+      "title": "rmg.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaYlfgN77ldC6veTJxjvi8E35sU86-4XIMK19D-D37DWJXEYiOMbuuve1We7jrJfjYoQPSXIXXY7r75_aA821giEE5Z3MTDKSU6Ctsq14DzK53EXPhQtd5rv1B8ZuJgxmOWujG_j-LIYiudyzP99q5yTIQisCpFIgrYaDzJhnUY8LR0Q63yewFWmAsmtaWjHdx"
+    },
+    {
+      "title": "nasa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxgKtNMGC-79MJCK-zmMgsLefSbFH6ceVgJhShX6y8OAT5R0ojvw50dVqiYwFWTR2GKZOFkp2vGRsmSR0OWpf3g0ZluWoDg7R6n5FQ5OvN7GGeDpx1PKVj2tnevAkDcYWZtENtHtYjReViw-q1fKx4Sj5-f0AOTfSVVXrb9lk="
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The claim that the Earth is flat is scientifically disproven. Over millennia, scientific evidence has overwhelmingly established that the Earth is an oblate spheroid, a sphere-like object that is slightly flattened at the poles and bulges at the equator.",
+  "claim_analysis": [
+    {
+      "claim": "The Earth is flat.",
+      "status": "CONTRADICTED",
+      "explanation": "Scientific consensus for over two millennia, supported by extensive evidence, confirms that the Earth is not flat. Instead, its shape is an oblate spheroid, which is nearly spherical but slightly flattened at the North and South poles and bulges at the equator due to its rotation. Flat Earth beliefs are considered anti-scientific and a form of science denial."
+    }
+  ],
+  "evidence": [
+    "The Earth's actual shape is an oblate spheroid, meaning it is a sphere-like object that is not perfectly spherical. It is flatter at its poles and rounder in the center at the equator.",
+    "Geodesy, the study of Earth's shape and size, confirms Earth is an oblate spheroid.",
+    "Isaac Newton and Christiaan Huygens theorized that the Earth is flattened at the poles and bulged at the equator.",
+    "Detailed measurements and geometric inferencing based on satellites with lasers demonstrate definitively that the Earth is round.",
+    "The Earth's diameter is greater at the equator than it is from pole to pole, a result of its daily rotation.",
+    "Anti-scientific beliefs in a flat Earth are contrary to over two millennia of scientific consensus based on multiple confirming lines of evidence that Earth is roughly spherical.",
+    "The idea of a spherical Earth appeared in ancient Greek philosophy with Pythagoras (6th century BC) and by Aristotle (4th century BC), the globe concept was widely accepted among educated people.",
+    "Satellite images show the Earth as a spherical globe."
+  ],
+  "keywords": [
+    "Earth shape",
+    "flat Earth",
+    "oblate spheroid",
+    "scientific consensus",
+    "geodesy",
+    "science denial"
+  ],
+  "sources": [
+    {
+      "title": "study.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlsR5RI44Q3_t5ArmkuPJoKA9pC-o-tkfuM3MJwM_meAcAj6ub7qY88bUr8dcc8amlywHvDm6Xz-freFxs_KIgkWBEdGUGgUtB5o7p6fYiLywD_xVUTJiNMGus-AK5Zlk2V1TF3YB2dap-7e7PPtFZtEETkSlQ2MdovIju4IthS-b86l56Rpr60WU="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSkN7S_PGELg4PPXanazghDrun85iZk_AQpVNHOXqFTwWShVWvjl_urJUTQTFuBLzUUqnMrXyQS6XCyfBr24UlF7L-U-EFzkM01baAEemhbQ7raQ4Cs8lhnNUCG397W7qo2WR0TYlJFT1V8UY="
+    },
+    {
+      "title": "discovermagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6B_stUL7mamsUc9f9MxctI_QvvMw0_CS-L6HHlWmde3aTwLUaYinlrld9cKa1SCBlrVie74YWUWDI6vC8_p1O9CwfpBWxMd-lLj_3H2BLvFZId5TATGogZzqIAyrwusfORUWYtnR4ZAFsyh3-jdT3qcGQatW4sRsWyWc0B0V3PSuPQv_8WCkb97tavBF9zd_1o7X5RZsEW-Ta7DsF"
+    },
+    {
+      "title": "ebsco.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLK222_OTE9gCMtWEDAdcyuQ0UK6u8TgZ-VD67zSHtOoS_MqllWHa6bHVAnnwhBMTMTvglF8nFpdNEcxSEvgJrir4GbEDKGKRZH7ZwixofNxUAsUrAIroSERZN3MGahOgGTxogV0Xpbwzh7VkNJESTHfRAYWNn0A=="
+    },
+    {
+      "title": "noaa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4178WVP-orfK20eCfRUW2BFyZdPB9wWE7faUpDE-XkAVeqzXDDn6lfbc_Fxd_Gcq40mXCBBPUKLMRJo1LdQ5SH0CSv9GHqggpxwWCIC_8vgoqcteam481TH1nE6OkcbiP89W21mWnubS4Dbn2rkQ="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjuacC8gqDs6m44mch2xIbXB-Gy3R_hzZCSCZHeLT1Fyy_OLUdTHXBEu7ed1r9HMkKqzYGumWN2zL7jxYfwSCgJiBNzL1_YEjWuKyJ8tq62NiONlKIq2EkU83TI0vuWC6YrBXeApRLfPz4ib6ZevVgrRY="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjM78giGeSwA5TlpLe4zhVA9D37yqV9tShDyni5qh6Vgz0jSxd-YHjuXM_0p82BCta1ZNFlcWCC8_oidCBvYjD2O3h9YQ5tPubw9T1ASogMUuzw9xI8O_Ybv6QGyx7DilIXds="
+    },
+    {
+      "title": "ncse.ngo",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbBIupTuqkEiuz107sD44SDxpEeZH6RoRluPBrCrggUOoBiOJY4q4O3C6Kj1zY13_LsP2hoTB8q1j_ks1fS0lg9H56HvXYP9xD6yrXQ0t-WBXX8S8NaX5tJFho5CHJYSD-kz5Ytz0ZuEarn-vSj-M="
+    }
+  ]
+}

@@ -1,6 +1,8 @@
 import os
 import json
 import re
+import time
+import hashlib
 
 from google import genai
 from google.genai import types
@@ -21,6 +23,70 @@ client = genai.Client(api_key=api_key)
 
 
 # ============================================================
+# LOCAL EVALUATION CACHE
+# ============================================================
+
+CACHE_DIR = os.path.join(
+    os.path.dirname(os.path.abspath(__file__)),
+    "evaluation",
+    "cache"
+)
+
+os.makedirs(CACHE_DIR, exist_ok=True)
+
+
+def get_cache_file(news_text):
+
+    claim_hash = hashlib.sha256(
+        news_text.strip().encode("utf-8")
+    ).hexdigest()
+
+    return os.path.join(
+        CACHE_DIR,
+        f"{claim_hash}.json"
+    )
+
+
+def load_cached_result(news_text):
+
+    cache_file = get_cache_file(news_text)
+
+    if not os.path.exists(cache_file):
+        return None
+
+    try:
+
+        with open(
+            cache_file,
+            "r",
+            encoding="utf-8"
+        ) as file:
+
+            return json.load(file)
+
+    except Exception:
+        return None
+
+
+def save_cached_result(news_text, result):
+
+    cache_file = get_cache_file(news_text)
+
+    with open(
+        cache_file,
+        "w",
+        encoding="utf-8"
+    ) as file:
+
+        json.dump(
+            result,
+            file,
+            indent=2,
+            ensure_ascii=False
+        )
+
+
+# ============================================================
 # JSON EXTRACTION
 # ============================================================
 
@@ -28,7 +94,6 @@ def extract_json(text: str):
 
     text = text.strip()
 
-    # Remove markdown code fences if Gemini adds them
     text = re.sub(
         r"^```(?:json)?\s*",
         "",
@@ -45,6 +110,7 @@ def extract_json(text: str):
     text = text.strip()
 
     try:
+
         return json.loads(text)
 
     except json.JSONDecodeError:
@@ -124,7 +190,6 @@ def extract_grounding_sources(response):
     except Exception:
         return sources
 
-    # Remove duplicates
     unique_sources = []
     seen = set()
 
@@ -144,6 +209,32 @@ def extract_grounding_sources(response):
 
 def analyze_news_text(news_text: str):
 
+    news_text = news_text.strip()
+
+    if not news_text:
+        raise ValueError(
+            "News text cannot be empty."
+        )
+
+    # --------------------------------------------------------
+    # CHECK LOCAL CACHE
+    # --------------------------------------------------------
+
+    cached_result = load_cached_result(
+        news_text
+    )
+
+    if cached_result is not None:
+
+        print("Using cached result.")
+
+        return cached_result
+
+
+    # --------------------------------------------------------
+    # GEMINI CONFIGURATION
+    # --------------------------------------------------------
+
     config = types.GenerateContentConfig(
         tools=[
             types.Tool(
@@ -151,6 +242,11 @@ def analyze_news_text(news_text: str):
             )
         ]
     )
+
+
+    # --------------------------------------------------------
+    # PROMPT
+    # --------------------------------------------------------
 
     prompt = f"""
 You are an expert AI-assisted fact-checking system.
@@ -228,11 +324,49 @@ NEWS CLAIM:
 {news_text}
 """
 
-    response = client.models.generate_content(
-        model="gemini-2.5-flash",
-        contents=prompt,
-        config=config
-    )
+
+    # --------------------------------------------------------
+    # API CALL WITH RETRY
+    # --------------------------------------------------------
+
+    max_retries = 4
+
+    for attempt in range(max_retries):
+
+        try:
+
+            response = client.models.generate_content(
+                model="gemini-2.5-flash",
+                contents=prompt,
+                config=config
+            )
+
+            break
+
+        except Exception as e:
+
+            error_message = str(e)
+
+            if "429" not in error_message and "503" not in error_message:
+                raise
+
+            if attempt == max_retries - 1:
+
+                raise
+
+            wait_time = 20 * (2 ** attempt)
+
+            print(
+                f"Rate limit reached. "
+                f"Waiting {wait_time} seconds..."
+            )
+
+            time.sleep(wait_time)
+
+
+    # --------------------------------------------------------
+    # PARSE RESPONSE
+    # --------------------------------------------------------
 
     if not response.text:
 
@@ -244,8 +378,25 @@ NEWS CLAIM:
         response.text
     )
 
+
+    # --------------------------------------------------------
+    # ADD GROUNDING SOURCES
+    # --------------------------------------------------------
+
     result["sources"] = (
         extract_grounding_sources(response)
     )
+
+
+    # --------------------------------------------------------
+    # SAVE RESULT TO CACHE
+    # --------------------------------------------------------
+
+    save_cached_result(
+        news_text,
+        result
+    )
+
+    print("Result cached.")
 
     return result

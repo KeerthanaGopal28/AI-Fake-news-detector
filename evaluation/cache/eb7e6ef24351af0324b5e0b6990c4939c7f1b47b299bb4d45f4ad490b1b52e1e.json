@@ -1,0 +1,96 @@
+{
+  "verdict": "REAL",
+  "confidence": 100,
+  "summary": "The claim that the Earth revolves around the Sun is a fundamental and widely accepted scientific fact, forming the basis of the heliocentric model of our solar system. This understanding is supported by centuries of astronomical observation and research.",
+  "claim_analysis": [
+    {
+      "claim": "The Earth revolves around the Sun.",
+      "status": "SUPPORTED",
+      "explanation": "Current scientific understanding, based on extensive evidence, confirms that the Earth orbits the Sun. This is a core tenet of the heliocentric model, which superseded earlier geocentric views. The Earth completes one full orbit around the Sun approximately every 365.25 days, which defines a year. The Earth's orbit is elliptical, not perfectly circular."
+    }
+  ],
+  "evidence": [
+    "The Earth orbits around the sun every 365.25 days.",
+    "Earth revolves in orbit around the Sun in 365 days, 6 hours, 9 minutes with reference to the stars.",
+    "The Earth orbits (or revolves) around the sun. It takes 365.25 days to complete one orbit around the sun.",
+    "Earth's orbit around the Sun is not circular, but an ellipse that is slightly elongated.",
+    "Earth orbits the Sun at an average distance of 149.60 million km (92.96 million mi)... One complete orbit takes 365.256 days (1 sidereal year).",
+    "The Earth completes one orbit every 365.242199 mean solar days.",
+    "While the heliocentric model correctly describes our solar system, it is now seen as part of a much larger cosmic framework.",
+    "As the Earth rotates, it also moves, or revolves, around the Sun. The Earth's path around the Sun is called its orbit. It takes the Earth one year, or 365 1/4 days, to completely orbit the Sun.",
+    "Heliocentrism is a superseded astronomical model that placed the Sun at the center of the universe, with the Earth and the planets in its orbit.",
+    "As Earth orbits the Sun, it completes one rotation every 23.9 hours. It takes 365.25 days to complete one trip around the Sun.",
+    "The Earth's orbit is an ellipse, and there is a slow change in its orientation.",
+    "Heliocentrism is an astronomical model that posits the Sun at the center of our solar system, with Earth and other planets orbiting around it.",
+    "The heliocentric theory is the idea that the Sun is at the centre of the solar system and that everything else – planets, asteroids, comets and the rest – revolves around it.",
+    "Heliocentrism, a cosmological model in which the Sun is assumed to lie at or near a central point (e.g., of the solar system or of the universe) while the Earth and other bodies revolve around it."
+  ],
+  "keywords": [
+    "Earth",
+    "Sun",
+    "revolves",
+    "orbits",
+    "heliocentrism",
+    "solar system",
+    "astronomy",
+    "orbit"
+  ],
+  "sources": [
+    {
+      "title": "generationgenius.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7T_V9j9m7-QIPdaXc3pcOrnpYC6s1AgrHuj26VhLaAj6EtjOHl11Ujy1Y8r6JhSsDHAnGCd86fxTDJ6sEzD4kq01Vm384ee8nZosu9fzTbdbZsEX0aj8jkz__pwzK2gIobYbekViW0otQqH0sNPb_EB0zj6gkv9vO"
+    },
+    {
+      "title": "nasa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCVZ1iP3FzmtPQRzg1rrYHGn-yZ-SjB1bbthLdtYGOfBBroP26RMUlMoT_OOQwxiIZgZdgrsQj1Zdvl1MMGQbDhuyik22eGrAL1pzEV18S0CXcpN5X3SluRpazfaVGkN6RQcOATV_qk5pRm8jCrbe_Sn3mh-f44L1A39g="
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH267pDVws3Mqc3wDRzWcQlrofAzFxcmsreY72aixJk10d3MVSY9vIL9ByCDzkdbcVXoSsRI8h2yhzwS8cpGbIJrmSwQUJ2Svh5nS4lAAMGUqBe7_p68DLPrtPzHwtJrrza0GSdjB-IvDKFzBTeCwbmaVF8xHfNNh-JbTiovfWLH4gWlDVhIyzd54="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjba_uCBbPh8xrgoQVrEyIM5v1HCFFVAHhFLQFWAi1VTewJT4icw1QV-hPDfQxXGRepU8hCTvXan33QtAY-wpbdfaOluwUcA-dBgdI62HFcfvWIcO2xALmlfaVUPmvfat6cD442iyl"
+    },
+    {
+      "title": "awakenche.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQW10M9iyuk_lmxSA7qmgBRWqotwQZO3zB-oSbvOFCxIAv2gag6mhabxKi_qqLsK7Vc9PsnBKpMYYzFww0wKQ1l-NKl17k6Mq55BZQnhuN4nnER-BZuGSUOQi0lnUqeXMvo7joTj6c3BXtHtoolBe0SiNkws7xXdleLeJk2spT9jYxPpZagVEsCB2B3WQ7qppHy6NnsuSv0hUs6daRy7nypDX8"
+    },
+    {
+      "title": "kidseclipse.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOu2tYlefCGW15vy-q4DNL-fUjoQc2bEY9pEOHFe2mwI4aNIuowh6Yzga3RK8_7EdHznLwENgjgUpYa6kzgO3SS8UABylW2MzOkvLKFJbLTz7kOvqJ7RyfikDpL5KBtdbF3qkxmhs="
+    },
+    {
+      "title": "nasa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCXdMbjB8ExTIlVNi5rmQS2XYnu-GmEuEc7XXrRiMZ_uey3OkDPLk2f1GZZ0hnu7Y8UhMQ8mIBRbQWS4Z8I8mc4DWDI7DE893WHMy3vgSSSIR5aVpRkurB-HMIJ9lMQQ=="
+    },
+    {
+      "title": "ebsco.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiaiphGMtV7idrOev1FBUkY98Xt12m6S8eKktGr-sYYyLJrMeJ4qV-prZGWl214IUgHDifEU_fJYo7h_K-zcTvlYg8_FwlDgtJdC91HNGhhXpBua8JRTRX3wQd2VvfD80CSYbog5GqgmrSsJk3x-cRcYobdlY_og=="
+    },
+    {
+      "title": "theweek.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKxuMWUX_PRVE9FYchqqnFaYbJJweFV3SNrzrTWV6FlLZtqulKaH8ecxTiFw_yGGqRXNuzAvc4YPLJEAgMaMSYqDKY5rjYAxutfnzvThoPBBOsZiNaQcP2qCu2-FzD8DU6rlf01Z8hjM7nYclJJFQvcW0nTARiC8rVzCdqSgoD-bxP5Tvll25Yv20="
+    },
+    {
+      "title": "britannica.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiyPr9NR8C5Xuupq4PczbAnhK8lL5pmHFGE-bbkh9FvXI43Q2qtjfI7-Y6yUWdXhgG6kGmtPJ2TGArwxKhbsJP5QQ__rFE6foD3GJFJ_I4NVrsHn4mCo5LVsC1dUknmWzGTRLte1an7Cc8"
+    },
+    {
+      "title": "astronomy.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ2n3bT48wH0c-w3O0_v5eftzUErzalV2K1GAGnBuo5NveME7Lcxh7wAMbq-vFMzwbRpWBrdLK_KXDEtYHYtGRMJSOkMxRgEaCl7u-IlTv7qpsat7jMsxFsRD5c4g9G9GE_BhFCUpa6gXoH1xzc-0gBS_HrI5FhA3OqKUhEy4_s-gqyw=="
+    },
+    {
+      "title": "universetoday.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHfoUt_05gNXiQZphEUdhp2Cgb-TcMzIUxqrrwVcPPbmefS7QXQwMarU_LyrcF6elUbMhqpMLVEdpTfRrjqqTX5tFDRvdfb_ZxfJm6nnZLgBNEcbD5HPWDlIJMWOEi_uQuDL-6CDTfn4jrN0RjmZNp7A16x0HCqcz4eNkn"
+    },
+    {
+      "title": "navy.mil",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESDnlW3PEnt1aKF9g4qPkYsrgam3QByoW8pNWS_Ys6eWAOrQFQUwaRhESx40KzuzswGWEEMt65pZyzFiIkha0xCoXQvkNmfwD5rEP7us9H2LObKL1Nvv5RPHzaCBZECyYW7eeE"
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3ZiDjiF80qPcPM_S7pUj1toCg5TnxwQU9Z8dQCzO1ktgIerOxNqiNc8uMqOXZF-zrwfK1V7QqCAHo5zkDD0tp6drxy8quzyowMnq52F_pI9ynz7a8Ix_DTHgwUnxbQesyWSwY_w=="
+    }
+  ]
+}

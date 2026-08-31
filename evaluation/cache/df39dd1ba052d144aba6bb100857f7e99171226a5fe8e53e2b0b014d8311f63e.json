@@ -1,0 +1,75 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The news claim that WhatsApp will shut down every night from 11:30 PM to 6 AM in India is false. This claim is a long-running hoax that has been debunked by fact-checkers and WhatsApp spokespersons multiple times since at least 2013. There is no evidence of any official or planned nightly shutdown of WhatsApp services in India.",
+  "claim_analysis": [
+    {
+      "claim": "WhatsApp will shut down every night",
+      "status": "CONTRADICTED",
+      "explanation": "There is no credible evidence from current or past reliable sources indicating that WhatsApp has a planned, recurring nightly shutdown in India. Multiple fact-checking articles from as far back as 2019 explicitly label this claim as a 'hoax' and 'entirely false'. While temporary, unplanned outages do occur, they are not scheduled nightly shutdowns."
+    },
+    {
+      "claim": "from 11:30 PM to 6 AM",
+      "status": "CONTRADICTED",
+      "explanation": "This specific timeframe for a nightly shutdown is part of the persistent hoax that has been widely debunked. Although a global outage impacting India was reported to have started around 11:30 PM IST on July 25, 2025, this was a singular, unplanned disruption, not a regular daily occurrence. New security rules in India require WhatsApp web/desktop sessions to end automatically every 6 hours, but this is distinct from a complete service shutdown and does not align with the specified nightly period."
+    },
+    {
+      "claim": "in India",
+      "status": "SUPPORTED",
+      "explanation": "The claim specifically situates the alleged shutdown within India. Although the shutdown itself is false, the geographic focus of the claim is indeed India."
+    }
+  ],
+  "evidence": [
+    "A message viral on WhatsApp claims that the central government has made the messaging application unavailable for use everyday between 11:30 pm and 6 am. The message warns people to become “active” WhatsApp users by forwarding the news to their contacts or else their accounts will be deemed “invalid” within 48 hours. In case an […]",
+    "A WhatsApp spokesperson told The Quint that the message doing the rounds on social media is “inaccurate”.",
+    "The Quint also found out that messages of similar nature have gone viral time and again with users on social media claiming that WhatsApp will not be functional during night hours.",
+    "In a conversation with Alt News, a spokesperson of WhatsApp termed the viral message a “known hoax”. Moreover, policy changes by WhatsApp are announced on its blog and no such warning was issued by the messaging application. The same fake warning has been floating on the internet at least since 2015.",
+    "Modi government is not shutting down WhatsApp from 11:30 pm to 6:00 am daily. It's an old hoax - FACTLY.",
+    "When searched on Google with the keywords 'WhatsApp will be off from 11:30 pm to 6:00 am daily', it was found that a similar message went viral in 2013.",
+    "WhatsApp experienced a significant global outage late Thursday night, impacting millions of users worldwide. The disruption, which began around 11:30 PM IST, left users unable to send or receive messages, causing widespread confusion and driving traffic to alternative platforms like Telegram and Signal.",
+    "India is introducing strict rules for messaging apps: WhatsApp, Telegram, and other apps are required to constantly check the user's SIM card activity. ... Now, all web and desktop sessions will automatically end every 6 hours."
+  ],
+  "keywords": [
+    "WhatsApp",
+    "India",
+    "shutdown",
+    "hoax",
+    "fake news",
+    "11:30 PM to 6 AM",
+    "fact check"
+  ],
+  "sources": [
+    {
+      "title": "thequint.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGliu1Orxlk87-9o0gy1l7c15Zd6wruOGSmz1ayMw02rLkm8Wq3py1undPvAJ3GKoNEpk-wGi3jjf5LPg2w2D-n1iU6XZ-7X3Dqvr7cii0ev3mJT1WOzPAD32AGKhw33D9sBeqybGDbSBCmnHV32MErBpDwc6n-7b91P0rnQk5pZMb9sj-kgktDo1nSXJI8JYpvbs0kdTC783FdzQfKLvc_XkqRl2JrHL7Lq6s="
+    },
+    {
+      "title": "altnews.in",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLbumLB6ogsXXAINq3Lad8UH6jgFSxKrqFNWO_41lh0Xk_7z28x4C2Qk5Tlo869VDu9DLnGidF79vvKoSmHuijTb58LH9sdsT9B4mRaQ0yRU5jRl8tk8JgIvuoGTZZfANGcqMzyb1_o8M71lFhYJYOx3aOb5xkM8n8tvHEFwwBttGrTUDwY1itpwnruIOZvaKbOW7hZ_Bb"
+    },
+    {
+      "title": "factly.in",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF94FWA3ns-ONPTHxnlEPBc6Ksi49VJoVBv7DrGjtK9lvc2QLiav85EfFeRJCx6VOAvv7nGOufyCSDmVzybYrtQrTYnuEOCbkpgxpiowT_MRKY283Kd4KwWmnNEHU8sdiMi7qUr8_0qHAhuIG5s3mvvEUftWKk9-I-LHXgsclqRqII7zXA8T-NJM0LHgwQlcD_qYKYFuiei1EEcmsgalWZTpPXFW7UsDL8="
+    },
+    {
+      "title": "hindustantimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTrh42cElMRIRdNWxHp4cSA8E5WYo7qS1pu9blirfukFYlO9Xtp4y6FO0I0a2bgWUdcR3i3SUtOdqR7kVcFUNHZ_z4t6gWjQOmvSJylr0kC_-dsA8khbqpfcmNHT1bRVp-Jaibfp826a4-Y1IZ6j5vfd7zgEbFpRNSClqelzln7n-tYVRBXZS1fw8o2Zjs0Fd2s1rFd2M9BFq0gMmNccQN4xDxjRCi1_AzUv2FMKctHx1gd9bmVmpKEEupJgjp-gwjvyBhFoPe0OLi"
+    },
+    {
+      "title": "economictimes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEkr_PGOnQT1QfgeZ4Z1EYNMZDsIHijAEMkBMigfrWKolwmf8EZttxmi2cyDlO3fguuwhtxv2Hj-LD92_LRK4q7eynemxaAVHXOSDS6V4fpmXoY3dvM-41heoxd2_o6rCJp_0kzH2jnaWYOsj32kMmmNabUKknFhQ0GqUXt-ngSIMmkEfLGHa64OsExZTrDmrpct4-S-AyvC1ZrGiABv4XvewKtD_o_OUkuZUKFIAKv0AkX0So9-baaS-kYsiRgg2vqbC6mIhj4C5AxdLRKn20-ETS3ZFRnBny"
+    },
+    {
+      "title": "downforeveryoneorjustme.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVF2-U3hUyEMnUtyjzvZXKfkR1ntCrwZrI7wh82raBkPvL6L0zUX5DIQvhDKkQ7SkSWRYUyanY96G3tGMYnMZ-PgwmjcM6njc6czNwuAr-_bxFImCUji4hvexfpJjHXaL8TCsjSmDl"
+    },
+    {
+      "title": "techgig.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-ki1CuFUs_eyx4Yy5BEeVmSZkf1_knrORtoP4mFUj9UNxVhWkjK2a2fYU1Qh8D0zLY2jfMqVxxpGGaEdQSa4ss8WhldyaBF7t79bcaYHKscBSyfPq1NnooPFN8pFd2syvDYWa_PqisLGQms-_ffPtlzNFcmxnzt-1wRbsVGrTI2Uum0eeX4UkvfMcaseMElkKJP5v-8VHie4sjHWkHxXe0mJKuC0Wj3CzMIFRAtPGwBuPriLCJaVkObcHsB6h"
+    },
+    {
+      "title": "green-api.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHV_rfiTxf5huUDGPAHwes4qY6hDCb3_1_mws22MLY5unlfpajrTWc-juUz2P8jkSBKMQytWtHFiqid6YpP94pJHaB9CHPajhd8-a7PAVnXOyIJL9nKap6m6IVCkPCSOOsTDL8Engvek1Ot3oNdgNw4mpPdjDaS-YJTIqZ0fQaJPhyykQ="
+    }
+  ]
+}

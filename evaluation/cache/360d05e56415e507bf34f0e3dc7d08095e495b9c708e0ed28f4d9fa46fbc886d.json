@@ -1,0 +1,94 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "Humans cannot breathe normally in the vacuum of space without a spacesuit. Exposure to the vacuum of space without protection leads to loss of consciousness within 10-15 seconds due to a lack of oxygen, followed by severe bodily damage and death within minutes as bodily fluids vaporize and organs fail.",
+  "claim_analysis": [
+    {
+      "claim": "Humans can breathe normally in the vacuum of space",
+      "status": "CONTRADICTED",
+      "explanation": "The vacuum of space contains no oxygen, making normal breathing impossible. Humans exposed to a vacuum would lose consciousness within 10-15 seconds due to oxygen deprivation (hypoxia). Attempting to hold one's breath would cause the lungs to rupture due to the sudden expansion of air."
+    },
+    {
+      "claim": "without a spacesuit",
+      "status": "CONTRADICTED",
+      "explanation": "A spacesuit is essential for human survival in space, providing a pressurized atmosphere, oxygen, and protection from extreme temperatures and radiation. Without a spacesuit, the lack of pressure in space causes bodily fluids to vaporize (a phenomenon called ebullism), leading to swelling, and while blood does not instantly boil due to internal pressure, moisture on exposed surfaces would. Brain death follows within minutes, with overall survival time limited to 1-2 minutes if rescue and repressurization do not occur swiftly."
+    }
+  ],
+  "evidence": [
+    "Within 10 to 15 seconds, a person in space without a spacesuit would fall unconscious due to a lack of oxygen.",
+    "Even if they held their breath, their lungs would expand and rupture before their blood and other bodily fluids began to boil, causing massive damage.",
+    "In the best-case scenario, brain death would follow within minutes, unless rescued and brought back to a pressurized, oxygen-rich environment and resuscitated.",
+    "The greatest threat in the vacuum of space derives from the lack of oxygen and pressure.",
+    "Exposure to vacuum for up to 30 seconds is unlikely to cause permanent physical damage, but after around 90 seconds, oxygen-starved organs begin shutting down, and death follows quickly.",
+    "Spacesuits allow astronauts to venture outside their spacecraft for short periods, by providing the air, water, pressure and physical protection needed for a human to survive.",
+    "The vacuum of space will also cause the water in your body to evaporate, which can cause your skin to dry out and your blood to boil.",
+    "Bodily fluids—like saliva, tears, and even the moisture in your skin—begin to vaporize, not from heat, but from the lack of atmospheric pressure holding them in liquid form."
+  ],
+  "keywords": [
+    "vacuum of space",
+    "spacesuit",
+    "breathing in space",
+    "human survival in space",
+    "hypoxia",
+    "ebullism",
+    "unconsciousness in space"
+  ],
+  "sources": [
+    {
+      "title": "space.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_h0zrcdVONs_CG15Ta1MXAw8lm_kRta_w0DZ5zrP5B1upcvwUT8nyHxMEaQE63blntyopzyAtmUo1IhjHge468R8uvuMfjZuG8SRsLXasWzJQkV9NHARmHp3SquwmzHVHM0oU39uOyCBPT_tZNI7M1dpOdW6T5ZMdLMFAbvbBnturf4jwWg=="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExNAwzcrY3aYjdchOor1Rl1YcOEHR5MLSMieWo3Ebbxr0lLzszqOCZGs3KnWHsoiLVmgSjkd_qqi30DvL0wVGMqHU6A3fAEWSC_NfPsPtLe8GIWWSnwj-iKQLmOdEX_lC_QxXdzOQd8FUdlCMaEDoqWxC2DEDXU73IGrBlSjdSIFOEn00BwT8_qe5bHYY8BC_WFBcShuExpFB9n79xvZY9YsTlb5rNmpIA0F-aXVl-RkU_AxaYbO9GoP2cHHxqimgD224hbshaKk9P5JN47w=="
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEnSFZedIXSvgJGWVv_mjRHMOO6WAd9uH197Pa-gyHibH9NdpuWbb2Ct8NQUQm3_YypkLQSitZbl8MAi7U3bAIJPfph7_gkKvJTY2c4hzZq6q1Z_YEGUPY9_p1Uyht6-Rx9Q2lOO6Ccf7twcwAZhienqblbZ12y_i1veUczBUJbDDWQWgnDtYLmDD5PxoSY7N8VpFd0ngWAM5VeFUTC4_zprMLMDikVhgOb70kRp3nmpu2Ugl2xuzksoMLJNAfpwucmN21gpYLO_zBajdHrsX4="
+    },
+    {
+      "title": "howstuffworks.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlL2rBaOx5ERC17pwpba7ngcL5XfXSZ25CRdptlEK3pNSGSaQ-eZ6skW5Ly5XeJgLGXGCKceQN3KtKof3LThXITqmXBaekfHN22c9Qn-mrukv0lbDdgO8mU3KtB1ZYvPGBKirCsTv00LrCpKM="
+    },
+    {
+      "title": "azeheb.com.br",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHTyXFixUcoAYjX6hJ_2vlNw2PTISrUzoW16Cr9TfvelpIC8_K5RjPLDSPBCaZX40fr91eh7NKKNq_w6quYTGTrULzZuodNfUXfA7mk0i_r3-MIvgnGCKWoeYEksILuqMDUSZ0I1frTuK9UiDL7usMjyXwHd_-lvjsoKOQtJZO3dg=="
+    },
+    {
+      "title": "researchgate.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp35sTvBdVsrrOt__pPY-v7mgfX-XoOBOb-M8Yr15amBm_jNoBWlEcHwCGBGhmehPNzK2_vCpyRyAi9c7aq3aVKowmfy8WU1UWTIkOKg-MLRVFVjRB_NwmKDpiMhQaSN0ol53q3BKGD04i3mV98v8tndS4Vf9yT2t8Mi9KmLS7_el5LX19QM3wSI7Rd9oiDMpWUgOwP8Tk_K4F6F7HCY78az8LGTbaFwFQN2ODcxrd6UiBYKK7WNmJMz0="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHi2ZB0SXCS7FtSDyB-q3w2GDAcqxPdIUEgvdxI7cCY7xfXSjFhlZEdCGgcZZpiLOWHyFNvhveJccJpt1qjrWBEbv2zi4kQg6vVeG0192-_2Zd23QeaCaxvmJXEyF8XKFc5or_nRCLtgStBsPNDb-_JKRa1n1hIpAPTM1bmccw="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlNZ-jD9eI1CDhqNKtaHQDWfMzxHSMl_soz_RUzT-l8_eoSI4e65WlpQodIla2Qa1G3fqL_ozSX7kmqgbsMyH8vak4O4Ac1PzeZuHv_PGfiLZxZpQcOx6CzK5VyIPjEwidHo0a84Ol2GbapT9gIhDAazSig9HIDHUjvIv2JIuUhwQ0Ff_k35_E0d3xkGdXsoY-VbHPcTSPECXSoK-RTysJv9u9PcNz3dAOMRqX3saYaaXn8DM3DH73VfnE4pxsmRPKcQUMUWjWzNKVZDH9"
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4sAjVSGUQdHl50LVZbIUNFU05ee5y6hLmx9K42bRkk41cGEqvH51UyEeVao7KqVJXotzPL7DCD7Ej3NiKMQXvPACDXhuhd0pFB6PWu8nNkhYTUxTshbFUNVd6rTaWuV9l2XO_JrtcdO34kQjWz0fgJ86Tf1rVhQEPoKjrrBa_Yg=="
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbkUwpuBQiTuYYI-butIczV4bmli1M894cYh5Xtf6L002G3SaujNxewagKzyjLYWlItMAtaYpyGonvHp0fWfJn6atsVnc_RIGeOnFwfq-gqUdl6bgVBKA7Rh0AveGHVixhrk8LONN4vklHX-EUK1uUgiYVBh0TpPD-yf3VOEY_nDt3uiyGbC0vqlcg237C4uRc6dviqwWPSn0="
+    },
+    {
+      "title": "osc.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXoyrk-45r0UeEcsk7h3RPeDpvAd8VvIZME3d6gl7opFiF-MTILOSy06yu-dq--OkQrDxug2ERO558j2MZ3Q9Aco-KqIxCc_L8NRIQVFOt7QJCx2UXgcWdrkzO4VWrLwJDzUuRr4gSlejkS3_t-Metv3R5GCWktTtY"
+    },
+    {
+      "title": "livescience.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDFpM4T9wZZiemYrqO0MvgovHZtQI8v1uZ8ogR_pBKgeSux8KI3LD5FAysbNZBWgntYPpYh2uBOinj7S6iHUfVpUhCdZjfnDp0xzNyoEtgVY9GhpWghY-gPp1-JQX6ihlcs2qEh-jejz3ws3V98Q=="
+    },
+    {
+      "title": "underluckystars.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWRVzsvZ4gKhxERLaHpWhKNoYavqdW0mZZfP3uXZXj0QRNWyorh9mWSRiSasGbZRst29yUh6yrFw95Y_2zXwC0jNMaakDy27He_QCHC5feWeAzD8qNXHtk09HCUrEIns_yqI8X8a2wAYx3PvCCKe8ZVSkAKUebDQX8s6TsjD-8dEPdDbPxnM9z"
+    },
+    {
+      "title": "howstuffworks.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGR_sfnEjQJU7y4mNkYs3HWYXbwcKSLq5GL3l6qBaR9_DUa-73A-Gv5gxdEDYCOy23OAD6Uwav3ob0viryHfmSFUl4zmCB7aKz5bcy_KSkbvApYlsPGkj6HkuIGRurCmuF2pVLdQVLVR5xXAbK8Rf00poYuYQ=="
+    }
+  ]
+}

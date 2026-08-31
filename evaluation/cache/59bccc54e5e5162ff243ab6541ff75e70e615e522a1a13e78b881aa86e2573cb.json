@@ -1,0 +1,79 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The claim that a human can survive indefinitely without drinking water is false. Scientific evidence consistently shows that humans can only survive for a limited period, typically 3 to 7 days, without water. Water is essential for numerous bodily functions, and its absence leads to severe dehydration, organ failure, and ultimately death.",
+  "claim_analysis": [
+    {
+      "claim": "A human can survive indefinitely without drinking water.",
+      "status": "CONTRADICTED",
+      "explanation": "Scientific data and expert consensus overwhelmingly contradict the claim that a human can survive indefinitely without drinking water. A healthy adult generally survives between 3 and 7 days without water intake, with survival rarely exceeding this timeframe, even under very favorable conditions. Water is a vital nutrient required for nearly all bodily functions, including temperature regulation, nutrient transport, waste elimination, and maintaining cell health. Without adequate water, the body experiences severe dehydration, leading to organ failure, cognitive decline, and death within a matter of days."
+    }
+  ],
+  "evidence": [
+    "A healthy adult generally survives between 3 and 7 days without water intake, according to scientific data.",
+    "The maximum time an individual can go without water is about a week. The typical time would usually be about three to four days.",
+    "However, scientists believe the number, in most cases, is closer to about 3 days. That's because your body needs a certain amount of water to maintain essential health functions.",
+    "The general consensus is that people can survive for around three days without water, with estimates typically ranging from two days to a week.",
+    "In general, a person can survive for about three days without water.",
+    "The human body can last weeks without food, but only days without water.",
+    "The regulation of water balance is essential for the maintenance of health and life.",
+    "Your body needs water to survive. Water makes up about 50% to 65% of your body weight. It's in your cells, muscles and organs.",
+    "Our lives literally depend on water. The human body is made up of about 60% water and every bodily system needs it to function.",
+    "Water is essential for life. It supports metabolic reactions.",
+    "The average person cannot survive more than 3 to 5 days without water, although some rare cases have reported slightly longer survival depending on climate, physical activity, and individual health. But make no mistake: life without water is short and full of suffering."
+  ],
+  "keywords": [
+    "human survival",
+    "water deprivation",
+    "dehydration",
+    "how long without water",
+    "indefinitely",
+    "essential nutrients"
+  ],
+  "sources": [
+    {
+      "title": "hydratis.co",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHIgZSKG2u5r-Xl89w1oVqGHV3ob_T1m3oTojS83T2GMxA-0OFGt-IoeG_XlQ1KEnhvj6LIN62n8jWWAxS2mWD5LX0ojF3fsQSfll-JLkP20r-YTtBbfej8X_trhDsl06YZX9jATrBEJPS8hJHTTba-A3E0E1madEJ43IZT4vgTnJdTUAjsOLBAZU8xYue-UJQ2EmnH_wBJNr6KcgFAmVN2bVAUje1VnukeskGO"
+    },
+    {
+      "title": "readywise.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3Dq4cto2JhcLuj6-Ok9tgs1n79IhSGkPIKSG2QBWueGS-BVVnWygHgC95u7NdMhAi9yn0AHIT-DVuyunl4cWIK048uCBD1pi1ylJp7UMyEcwz1HgKHbINhokygOLDnBkAqHJiQjufoCibkZORmT7hFMUNsHzbvHAP3LvAWxprkHXyKW_VrEFczlZK6g=="
+    },
+    {
+      "title": "healthline.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGIW__nqlX815ohBQrYyrb_CjTCWYvEeMEKw3TQs0xCuxZ0uFhIQ2vJkGAZl7WCuej4jBai_AwwD9XWQna1EMfd4aj7ZFpYrniFZQiBMEbENM5hprrXcoUJTch56lc7eQhVdwiq7vmP07G4vMrQz9HPqemusBQLGYB3zfX4Sw9LIhsQjou8JS4Rs2S5E0xsIQ=="
+    },
+    {
+      "title": "svalbardi.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFamLL8WjjsfNSy0OD0TdG5A2TREReVMWXTgB9bWY4I-LLJh6UwpijPLUfjmP8InwduEsQuLcTKdYXLSZsXhIoMG_kJPgDoIdSZjA6OqyIEt-8t9pUsHyHPjbnZWwMIMS4ZhYeAnZJuPLBsxw=="
+    },
+    {
+      "title": "oasishospice.us",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAKWD8TLGJwPEHjVjK6HxMEaoETvRbUT1LlJnhm2xvkjRgluBAZTYv9IroI0N3SKcaJHSd09DbJ33-fTcs_cob9p25vsQYpOl80TVvxl6eFV6B5Grc2JPynaPl3DhAE7q9fVTccKPXCXTe8fc="
+    },
+    {
+      "title": "embracerelief.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECpJsqIZAml3M79f6yyVFn481MPziTAitUPAHTi9PWn3rfpdJwm7faSTGZmdiGsm1R0_g87d4HVI1Ky0BVQvS8aFCs_n2tbcIXHO3lONBlLJa5TE1K8E4Aj-AEE6uWHK3RvHLtWx-kEC34CGeHzIv321jsANrw2p1529zyxa4gL-uiyOvOnRuznQ=="
+    },
+    {
+      "title": "betterhealth.vic.gov.au",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvH-E4Efua-7erKy8dTscTLQUhzG3elQ5DF3_EAAAFohQ8rZ3rO_WlCuLW_hcIZKZW8du4WaTc_LdrJ8cynjFdXX7S5LA68UtOE-gKHoSrHcdSrSpAFA5nweCGVjxkvgpesnb_g3iFHmxYr7_kCscMNiAlv897llT2VbNRxBTTo8nHElghym-AxMY="
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYRVnGP7PGnhqsTUaG8EjCIhYwCp3Qtmx6BQ-LytQPecD6FUrQlB2vEmxNraHDL3XX5KOU1H7bW25ZUG3TnvM6kNk9K2VPrZ6nT9-yYb6YocoSL5H0FXJSJcUVZmJQC_G3bKEI"
+    },
+    {
+      "title": "mayoclinic.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2XzuFJbId-FuUbnvg4rv8K0N9YFhPKyc_4oMC0T2dTSK3X6b7bhqNhNypSS5gOW7y0EALPzJjI88KGv0v1rHsdQZ5C3PtXRn9b_mK0-rxfcO72OL7wGoQDFn5cuND5hq-OQRXNS_EdcthBptWM2s-ywNcitfBjF8W-FXVDJdV4JdYKI1J1O7p7XKBjcc-Njvg8KeVtV0t-RiO0KAlfchg"
+    },
+    {
+      "title": "wellingtonregional.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAZsEGNzLyovtsVvO_cuozOjkzPf5DfIMw15n0CEQj8xJ7RXjBVzz3GWeNDl5Uc-MRkNbCY63jPnN4jzlJi-lwwlhfrMtRwxq4MJwijI94uv7P98vWTTb7lr4P90LRWT6DGNjryh51v6LaUBn8KmFUMwjNaiJ-FovjRh2X42PAXemlFTGH"
+    },
+    {
+      "title": "bottledwater.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqECaRB0zJ25VTteC5WEQgf9okpFmefteWaKKeLR9jY9aY7woXhngElF2_sa0vEifPY5FA_UeSqPtk_QcqGqAjPfQtj9pcBA1UezKhztDBNxMD13vYEpsuEcjQ7Xvum9deTEx6StSI8d_gwnOCt8GpLnAQZJ3VSKudOLteuzS4Sw=="
+    }
+  ]
+}

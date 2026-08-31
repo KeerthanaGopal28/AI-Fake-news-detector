@@ -1,0 +1,54 @@
+{
+  "verdict": "REAL",
+  "confidence": 100,
+  "summary": "The claim that water freezes at 0 degrees Celsius at standard atmospheric pressure is accurate and well-established scientific fact.",
+  "claim_analysis": [
+    {
+      "claim": "Water freezes at 0 degrees Celsius.",
+      "status": "SUPPORTED",
+      "explanation": "Pure water is widely known and scientifically established to freeze at 0 degrees Celsius. This temperature serves as a foundational reference point for the Celsius temperature scale."
+    },
+    {
+      "claim": "This occurs at standard atmospheric pressure.",
+      "status": "SUPPORTED",
+      "explanation": "The freezing point of 0 degrees Celsius for water is specifically defined and observed under standard atmospheric pressure (approximately 1 atmosphere or at sea level)."
+    }
+  ],
+  "evidence": [
+    "Pure water freezes at 0°C (32°F) at sea level under standard atmospheric pressure (14.7 psi / 101.3 kPa).",
+    "0°C is defined as the freezing point of pure water at standard atmospheric pressure — it's the literal reference point of the Celsius scale.",
+    "At standard conditions (1 atmosphere of pressure), the freezing point of water is 0 degrees Celsius (0°C) or 32 degrees Fahrenheit (32°F).",
+    "The freezing point of water is 0 degrees Celsius (°C) or 32 degrees Fahrenheit (°F) at standard atmospheric pressure.",
+    "The most well-known freezing point is that of water at 32 degrees Fahrenheit or 0 degrees Celsius at atmospheric pressure.",
+    "The temperature of the freezing point of water is 32 °F, 0 °C, or 273.15 K. This is the temperature at which liquid water undergoes a phase transition to become solid ice at 1 atmosphere of pressure."
+  ],
+  "keywords": [
+    "water",
+    "freezing point",
+    "Celsius",
+    "standard atmospheric pressure",
+    "0 degrees"
+  ],
+  "sources": [
+    {
+      "title": "easytemperature.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxum8yESShLY7UBdvyXA9qPonUOW_AUUBwH1VQn6AcOajr_s1QT1ZU0Si5hxYQK8XpEAqcczc-OcY4sxsZwKWJEvJZzSH62ReZxmCxCXxfZLCawDWD8N3k60NHM6jtbKoQMiHLCWGptS26_DGizZZuFLJC7atl"
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGACyAjun6JTCZDdcS4ucUl7JY0EN4xxfDxH1ZsmEgmefxYcXfwzA66Q1EJJCaqxSVWp6ffwZU-Lamr2hIobS0HCBFb8_FwLLOBMhniAsKKBZk4HbwD54IHfg3a_2kLq4mPAe4XQsu-P7BqCSA4eitFFW9JdgcSGqdA3Ot5jmooc5-GWQ-31b2G47oRr79Eb3792SuxFj5tdj_Xo9I3Hwr5WZyQLlY3kMRJLj1ydjdx9bTtIqltZrjp7mFUO1-Ueja1IA_hLYe6KOac7V0="
+    },
+    {
+      "title": "ck12.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgSM1-5J_FgGmHHjuugA2bW4PbF-CQmmG8eotPlMadr8zZmn3xagJtJjsWr3UDDnXysWRHlvTVzOqlkGGWVi1EZvD0yqjZFyk-tHwxauVjbSAHyfL7xcd_yxuHDM9L8HTmXBRg3FX2P3Rk_wiYui2ptgpswLDWURn272NZPQ9sbMx8eowDH-avBLDtYAI48844lY0F1qyWmf8NxROFX0kAa5lF8jTgoQ=="
+    },
+    {
+      "title": "ebsco.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHJn1QnYUECbmmKJinz74xanw6a-L4caZBuqdTy49WlAavKEN7WEclQ2xqKR6RMTgtn83z_DQLA4rDwF7wC4wuVJ5oBro_PPiFaRwZ22NipYwTb8HMqKqiXxklWy6r6n-4reRO8b2ekX8vSF3-F1QKZzGQ5Q4r_sQo="
+    },
+    {
+      "title": "sciencenotes.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtD2wV9i9PUN1kDp9hev_yv_iANDADWi-tXIDivnyKZS8NyqdZB1yzkO1a8e2H7jeqt0zeFMEwdzvqD8KvQaQV2ITjWT49YvnhUrr7kFrFK9z-5ac0Wh201VsYBgmF1O8EDC7sy8-GwxUSR5IQ4McUhbR0pIROW-8UlAljT83X8h21XypEa7QUvzuGhbfF-LiMu-6Mqg=="
+    }
+  ]
+}

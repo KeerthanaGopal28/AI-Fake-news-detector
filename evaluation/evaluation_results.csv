@@ -5,17 +5,17 @@ id,claim,ground_truth,predicted,confidence,correct
 4,The Moon is larger than Earth.,FAKE,FAKE,100,True
 5,The Earth is flat.,FAKE,FAKE,100,True
 6,Humans can breathe normally in the vacuum of space without a spacesuit.,FAKE,FAKE,100,True
-7,WhatsApp will shut down every night from 11:30 PM to 6 AM in India.,FAKE,ERROR,0,False
+7,WhatsApp will shut down every night from 11:30 PM to 6 AM in India.,FAKE,FAKE,100,True
 8,The Sun is a star.,REAL,REAL,100,True
-9,The Pacific Ocean is the largest ocean on Earth.,REAL,ERROR,0,False
-10,The Great Wall of China is visible from the Moon with the naked eye.,FAKE,ERROR,0,False
-11,"North Korea is preparing to send another 50,000 troops to Russia to fight in the Ukraine war.",UNVERIFIED,ERROR,0,False
-12,A human can survive indefinitely without drinking water.,FAKE,ERROR,0,False
-13,India launched Chandrayaan-3 in 2023.,REAL,ERROR,0,False
-14,Chandrayaan-3 successfully landed near the Moon's south polar region.,REAL,ERROR,0,False
-15,All artificial intelligence systems always provide factually correct answers.,FAKE,ERROR,0,False
-16,"The speed of light in vacuum is approximately 300,000 kilometers per second.",REAL,ERROR,0,False
-17,The Amazon rainforest produces 100 percent of the world's oxygen.,MISLEADING,ERROR,0,False
-18,Every earthquake can be accurately predicted days in advance.,FAKE,ERROR,0,False
-19,Social media posts are always reliable sources of factual information.,FAKE,ERROR,0,False
+9,The Pacific Ocean is the largest ocean on Earth.,REAL,REAL,100,True
+10,The Great Wall of China is visible from the Moon with the naked eye.,FAKE,FAKE,100,True
+11,"North Korea is preparing to send another 50,000 troops to Russia to fight in the Ukraine war.",UNVERIFIED,MISLEADING,70,False
+12,A human can survive indefinitely without drinking water.,FAKE,FAKE,100,True
+13,India launched Chandrayaan-3 in 2023.,REAL,REAL,100,True
+14,Chandrayaan-3 successfully landed near the Moon's south polar region.,REAL,REAL,100,True
+15,All artificial intelligence systems always provide factually correct answers.,FAKE,FAKE,100,True
+16,"The speed of light in vacuum is approximately 300,000 kilometers per second.",REAL,REAL,95,True
+17,The Amazon rainforest produces 100 percent of the world's oxygen.,MISLEADING,FAKE,100,False
+18,Every earthquake can be accurately predicted days in advance.,FAKE,FAKE,100,True
+19,Social media posts are always reliable sources of factual information.,FAKE,FAKE,100,True
 20,A claim circulating online is automatically true if thousands of people share it.,FAKE,ERROR,0,False

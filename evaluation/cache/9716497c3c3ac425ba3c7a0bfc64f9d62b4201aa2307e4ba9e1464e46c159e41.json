@@ -1,0 +1,68 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The claim that the Amazon rainforest produces 100 percent of the world's oxygen is false. Scientific evidence indicates that the Amazon produces only a small percentage of the world's total oxygen, and as an ecosystem, it consumes nearly all the oxygen it produces, leading to a net contribution of effectively zero to the atmosphere. The majority of the Earth's oxygen is produced by phytoplankton in the oceans.",
+  "claim_analysis": [
+    {
+      "claim": "The Amazon rainforest produces 100 percent of the world's oxygen.",
+      "status": "CONTRADICTED",
+      "explanation": "Multiple scientific sources contradict the claim that the Amazon rainforest produces 100 percent of the world's oxygen. Estimates for the Amazon's contribution to global oxygen production vary, but are significantly lower, ranging from approximately 1% to 9% of total global photosynthesis. Some sources mistakenly cite 20%, but even this figure is debated and often refers to oxygen produced on land, not globally. Furthermore, as an ecosystem, the Amazon rainforest consumes nearly all the oxygen it produces through plant respiration and the decomposition of organic matter, resulting in a net contribution of effectively zero to the world's atmospheric oxygen. The vast majority of Earth's oxygen, approximately 50% to 80%, is produced by microscopic marine organisms called phytoplankton in the oceans."
+    }
+  ],
+  "evidence": [
+    "Estimates suggest the Amazon rainforest accounts for approximately 1% to 6-9% of atmospheric oxygen, not 100%.",
+    "Some sources state the Amazon contributes around 9% of total global photosynthesis.",
+    "The Amazon rainforest consumes nearly as much oxygen as it produces due to plant and microbial respiration and decomposition, leading to a net contribution of effectively zero to the world's oxygen budget.",
+    "Phytoplankton in the oceans produce the majority of Earth's oxygen, with estimates ranging from 50% to 80%."
+  ],
+  "keywords": [
+    "Amazon rainforest",
+    "oxygen production",
+    "global oxygen",
+    "phytoplankton",
+    "photosynthesis",
+    "respiration"
+  ],
+  "sources": [
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJ8TDsw3uf5UIqbToSPDh6RrlVCx4LkvuFOfe0I5QCjHUVHA2powG2F8bfxhTjju-St7o2780dUl_M0Y1lh9Jyirn5Z4cQgNF-xaSNDruk3NVxxtbF72nEz1rYo07NIV3PT0N-HUstEc7nV-16bzjfz89BJFx-2BIAeCkzOH4yNmNasdp68XwHLeNQVo3DHW19ge9DM1BhtYALZlHBu57QTIBP-v8gaxEggaNtFnwSY6vOdPNM6sVrRgDZNKAPycsYXbqH"
+    },
+    {
+      "title": "oxfordecosystems.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFaFBfRWSBQEDE3iiVKk2aNOUAR11AdMr7Ng3y1Bprg9VFeU7kDsNfqdOhn6p0iOyqUOZaTxv2sq6XO3oVLL0hm_3LbY4D89wWc5TcejiQ8jDvvnHl3YR4kJUkoxuwQZRKn1rp9cCirNPRDgJY9jNxz6BnsAyDONAfEvyiIRMFxkW5Edjk="
+    },
+    {
+      "title": "factcheck.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF9GvKSA7DhPjoFkebZJdOgEUDFf-TbE0EanvG3POaeYXteB_85kWfzsMMV2QnCnVb9BdmEnwOtRk_zP-9mVX_qNsiRTkfa400Pk2rajRPW2SCDWpYkzVIx1-Kmwebbxo7O2vgy8d-ZKG89mtSP"
+    },
+    {
+      "title": "onetreeplanted.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELLcxmjf4dvjEy1Hcb6dDyp7atFaWVPCosHQo6NlU_2nmNtX1Wk-5pQB0EFEdCZSyNEfPv0LmJXz4ribye7MGV3DheRc4CzHEhSlB7_A3vKBzOHI_lzWDatBfWr3qHO4XT765zDYRJ3o_w4WZPeaXxW5iCAVeSrloMJHY="
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqolxrrKbjYD91DxosQ9allmemzNAr-5Ji5d02gHENNthKb2xYvTCiFzmworXuQCm70HO8CVdfDndF2NcdLbJYUSuKAxSlcI_TidKZHeb6lkYr4WsWTT0_OkkTFT98LfzFNLBEH0mBWneRRj9w9XMEzGPPCTQA5LY472S6CepnG--e74WKVkeVJq_p_2ZKPkWgXw4K1TgwcE4xNebc4zK83rKJ2U15T9NEHSurXemDa7TZopC07vqQxBtdO-eU77zjICmtgL5i8gQYHo3TMjyNxw=="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQELyRK8n0C8kboxDRV7XrAU6wS1zelGmpKLn0sNqejn7RWeWg6PEP3DmPW-LQh0HSab4HHNarb41kKp5KUSSazodob2Kz0IdX_GDBaD2nvhpl8RkQI-iXqbfgI-aY9Ub9k5CPlmcA=="
+    },
+    {
+      "title": "youtube.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2kNG2SDaQbO3YSdEW1KIyoUxoXsgR-mNzwSgLJUArUU9DNRd4pPNGCmAFQ3i4dAhVX32sEzU6diz6fNjmPFW-29tdiz4pWt_KlL55X7opa2fJOsPNk631wo48uDevCSPnqkvLqA=="
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUvatDjDOVH0-psuHX4wiMQn3xkg5KROzldnoo71Yxgjl3xJhSqmym201qZDnqbsXofJlNHBTX9-o-NnyvyW4exc7p6k7aMnd0t_U__QZb_fZDIJYKctJwbF3UmHaxIOYAnX482ZZBM4Az__-km3aZtqlrakR7EsIGt_mYghZWG-9AZvi06NbLP0SQihDSNS5Uzj9YAm3_yvE="
+    },
+    {
+      "title": "noaa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLQTX6I7a-81xHa9Y0305r_GLj8KU8H6ICqWy1uE6hql8IdiP8PWJJg7EWEVb99D3wct2478COnsTHLMayHyqRGe9W6r8igGgXogx3SEhlFCOJWWOFzJBT0cICxsW9pGd5j8YHQ2bZXX44SCTdBlGQ"
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaYdrzsrH5ie6WstdccVoDKKaxnkvL76fmufazFFiYU2iN4an0uoSeBAGINBUEZVv3YQ2JRhrHm4STp7B4cxs3OO2ViWC-Hbj99ovaoyzChnXTCfj8hcHil7sYCuKtKnP9X84w_DTeLkbfdk4="
+    }
+  ]
+}

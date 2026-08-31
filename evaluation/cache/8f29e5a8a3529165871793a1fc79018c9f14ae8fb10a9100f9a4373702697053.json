@@ -1,0 +1,60 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The claim that social media posts are always reliable sources of factual information is false. Numerous studies and expert analyses consistently demonstrate that social media platforms are significant vectors for misinformation and fake news, which often spread faster than accurate information due to lack of editorial oversight and algorithmic amplification.",
+  "claim_analysis": [
+    {
+      "claim": "Social media posts are always reliable sources of factual information.",
+      "status": "CONTRADICTED",
+      "explanation": "Information and news shared on social media can be accurate, but users should be hesitant to take them at face value, as social media platforms do not require users to verify information before posting it. Over 67% of Americans have reported encountering fake news on social media, highlighting the critical need for effective identification and verification of information sources. Studies show that misinformation can spread up to ten times more quickly than accurate information, with falsehoods being 70% more likely to be retweeted than the truth and reaching people six times faster. The quality of information shared on social media varies greatly, and it can be difficult to determine which posts and profiles are credible. Social media algorithms can also amplify misinformation, as engagement, not accuracy, often drives what spreads."
+    }
+  ],
+  "evidence": [
+    "Information and news shared on social media can be accurate, but users should be hesitant to take them at face value. When information is shared on social media and is something users find important, they should verify the information through a balanced news source. Some examples of balanced news .",
+    "Social media platforms do not require users to verify information before posting it. This means that anybody can post anything they want. News outlets, on the other hand, tend to go through a process of fact-checking information before publishing it.",
+    "Over 67% of Americans have reported encountering fake news on social media, highlighting the critical need for effective identification and verification of information sources.",
+    "Studies show that misinformation can spread up to ten times more quickly than accurate information, which raises critical concerns about the impact on public perception and behavior among social media users.",
+    "Falsehoods are 70% more likely to be retweeted on Twitter than the truth, and reach their first 1,500 people six times faster.",
+    "The quality of information shared on social media varies greatly, and it can be difficult to know which posts and profiles are credible.",
+    "The biggest risk is algorithmic amplification of misinformation; engagement, not accuracy, drives what spreads.",
+    "Social media is not consistently reliable for news. While it delivers information quickly, it lacks the editorial oversight, fact-checking processes, and accountability standards of traditional media. Misinformation spreads rapidly on social platforms."
+  ],
+  "keywords": [
+    "social media reliability",
+    "misinformation",
+    "fake news",
+    "factual information",
+    "fact-checking",
+    "algorithmic amplification"
+  ],
+  "sources": [
+    {
+      "title": "viterbo.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_TdUocr-tqwiMjliLpUxNmM6UuAfVVNm-9S7JA9qDVK0UZ0q9EQPIT0RdlGkQLCMJdDX0VQVjJ-1VThWqBkxwBafWl14MnGNK7pnfYdVNm2kCe9FrCLAZ4d0sM5xu8cDlUFNQI4NveZWju0MvPivvXcIYgAOoeff-qbXz69ThGirIQVs_jFiZJ3TU"
+    },
+    {
+      "title": "wcffoundation.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEN3xcDl6_7dnr1cujK9a3DQ0aSA5cGBgoHwj3Qc2G9Ff0lyHGPKiyU5-Qp4_Y3h7mtwNlKPat-oUO0KRVGKYj_APjJMparxKZvvJSQXUsn8RFiqaBnHUBLunwDgRr_gR7Ae0BGOntiv7Qu6nh9m1ujGdYFASq2yd_vF_eSqDv_KOQIe2LJz3bPU0G6IWustev8"
+    },
+    {
+      "title": "temple.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcIrspXWqSTf50JIhD1h4ht_4RhrGJyrLutNpwb-hpwr6HZQYucXnpyLrZMXJzpbABHvQN3e4RaiZrcgPzEODgGcVJpwy-4pOCgQNrshmIkvJqrdQ-grE1sRMZpaka6Y3bsMlpw85DZ51zUEQB_wRKHvxpn7Tzcy_UC2LJ74Rymcoe8O5pjYr6i1pG9j00InKOxyQeKSwPwnIoL0FYDh0YXa_vnoODod3Sz0wMH1zZLV-iQbpNwg=="
+    },
+    {
+      "title": "mit.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtNfJtlqygI5dOb0x_da85_pR1v3lbyj6DJ75j1Igc6qh6yAr1a-MIQOYXVnUEI4tc_BV2DaA66hre8bSB3PJkFnB6owG68BZJ_ug0QMZaYp73g78QobrnJUFO3DbwASPm1IlHdtxt_xbcxBMkVAieQAqumVL2eiTUA3mzYw6dGs_qStjEnpfLS2GiiE_UgeBZNMreX68T26XIPlryWLSIPIX52H9Ewg1xsw=="
+    },
+    {
+      "title": "mit.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_Il5qyCHV020WJNZIImnjp8xPsCQeiy6_P9N8XkaJd-ojIgmgCYo7BI6d4HltHRTk4rLE23M4TVbxsoHzHAGlLpLdkXKIj5D1ZDPl2LDFqhg34FSs3y-1nlGC265IO3ePEQyK3GLAoKF1ULw9O560HrI-inGz5-q5yyQKTZf93TDb1iF2UfnsPtytVxHkPlEBkGdMU-X_sFaB_Sv1t8q4Gw=="
+    },
+    {
+      "title": "publichealthcollaborative.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPfqdXl1Bj8FIa02MhvAjR4LpgeNyKfNF2rwWXW0p5ebEWHOzDka4FGSEYlaFFEDVS_4gsR8JY6g6eS6Y_xyI6wb7k4FmLuJrWp0M1xyk5apmqkS8ahUcziOJzL-mCBSQ2MBXeGd2fjcAcOrKeJIHnzM0ytJHYY4IflsmnMty8SK3Un60luviWT2Zkd-kj5R0h_Jg1xRDrtDkzt0mbBK7xGA=="
+    },
+    {
+      "title": "newsdata.io",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvFbeszOz9osH0HhR0Tb6UAKU0CWXvQwXNK-LU7TaTbe-VghBQtAqpuZO3eZCZLGbXz6jbYt2GR1OEM9Bo4DdtvWiN5agnz_TTowXEyYCXVp8QR6g6Xi-z2HCvMTMb7rw8wWMjow=="
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "verdict": "REAL",
+  "confidence": 100,
+  "summary": "The claim that the Sun is a star is accurate and widely supported by scientific evidence. Multiple reputable sources, including NASA, Wikipedia, and astronomical institutions, confirm that the Sun is indeed a star.",
+  "claim_analysis": [
+    {
+      "claim": "The Sun is a star.",
+      "status": "SUPPORTED",
+      "explanation": "Scientific consensus and various sources confirm that the Sun is classified as a star. It is a G-type main-sequence star, a massive sphere of hot plasma that produces its own energy through nuclear fusion."
+    }
+  ],
+  "evidence": [
+    "The Sun is the star located at the centre of the Solar System.",
+    "Our Sun is a 4.5 billion-year-old yellow dwarf star – a hot glowing ball of hydrogen and helium – at the center of our solar system.",
+    "\"The sun is a star. The simple definition for a star is that a star makes its own energy,\" says Michelle Nichols, an astronomer and director of public observing at the Adler Planetarium in Chicago.",
+    "Our Sun is a star, like the hundreds that you see at night, only much, much closer.",
+    "The Sun is the star at the heart of our solar system."
+  ],
+  "keywords": [
+    "Sun",
+    "star",
+    "Solar System",
+    "astronomy",
+    "fact-checking"
+  ],
+  "sources": [
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhDQKchk6hhJgpLrJl325fSKm0pKAWBs2i7Q4AhSaXoJq989koon7vE6DzECXtTcXxBmSvW_ts_WAJn-fzUVNoGNVo1vBAztJWpG-Nn1DD724y37H_aGDhRF-vKg=="
+    },
+    {
+      "title": "nasa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFQyxf9keXcAbCRkoU_IBzz8kj5jGdefyHESTttThcQJWr1vCMxon4ceeyZDxqxlgF_D33eLIt9I_3WEhLYMkKuK2uCT-r2SLWoZp3GXs-hNipJUOmGIq2xgqjipWX"
+    },
+    {
+      "title": "discovermagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2wLBIS8N1KwZU4A0_tAROuOPT1a4DKGwKgrmCuF41-dMdz9UbEtl2E4Ml9We9fb4QnVfdPzivc63QdNnN4WxJPZ1JCZOVIdKqYwlzl7WMb4uRK5VdE7jCAs6zfG_GEhh-J4KRuCqeqmZKc9LI48ytQ_jy37Klv1gXVP7fkr_EvBqYLjOJB0ZjLhQ9RlNBIPgJ5cXei7NDQCzQctSJMVY="
+    },
+    {
+      "title": "exploratorium.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlK0TbMGbQLJ31foP1tsZ9kiAyri8kOakMObmTWKx8qDNnxvLuIC6uXl1DkQcMyA4lPfYbGS6w4_Q9vH8IMvVyJC4hA04nhXjqaxwzDWt-G3LRC9PZTHjM9pdXsC5GVTmzRaKDf1XWjga7fjYE5ONhaPE="
+    },
+    {
+      "title": "nasa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5kmQw40tBKQ7W_U_YabmBqDpfAxU7qSuVJGtF1-SH6V4the8vvxVmhaayn6J2jOtcU02g9euZ-TdcdUbLosINWFnWx36Y8DFKOYjdCk1W-gSC9kJIOo_p"
+    }
+  ]
+}

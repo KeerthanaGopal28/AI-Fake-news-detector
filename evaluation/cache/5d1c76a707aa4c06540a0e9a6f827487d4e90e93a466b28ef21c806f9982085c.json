@@ -1,0 +1,69 @@
+{
+  "verdict": "REAL",
+  "confidence": 100,
+  "summary": "India successfully launched its Chandrayaan-3 mission in 2023, with the launch occurring on July 14, 2023.",
+  "claim_analysis": [
+    {
+      "claim": "India launched Chandrayaan-3.",
+      "status": "SUPPORTED",
+      "explanation": "Chandrayaan-3 was a Moon lander and rover mission by India's space agency, ISRO."
+    },
+    {
+      "claim": "The launch happened in 2023.",
+      "status": "SUPPORTED",
+      "explanation": "Chandrayaan-3 was launched on July 14, 2023. It subsequently touched down in the Moon's south polar region on August 23, 2023."
+    }
+  ],
+  "evidence": [
+    "Chandrayaan-3 was a Moon lander and rover mission by India's space agency. The spacecraft launched on July 14, 2023 and touched down in the Moon's south polar region on August 23, 2023.",
+    "Chandrayaan-3 was launched on 14 July 2023, at 14:35 IST from the Satish Dhawan Space Centre (SDSC) in Sriharikota, India.",
+    "Chandrayaan-3 was launched on 14 July 2023 aboard LVM3 and on 16 August 2023, the composite attained a final lunar orbit of 113 km × 157 km (70 mi × 98 mi).",
+    "Chandrayaan-3 was the third lunar mission of the Indian Space Research Organisation (ISRO), launching on the 14th July 2023 and landing on the Moon on 23rd August 2023.",
+    "Chandrayaan-3 was Launched on 14, July 2023 at 14:35Hrs. IST, from the Second launch pad SDSC-SHAR, Sriharikota by The Indian Space Research Organisation's (ISRO).",
+    "Chandrayaan-3 is India's next moon mission. The spacecraft launched to the moon on July 14, 2023, at 5:05 a.m. EDT (0905 GMT or 2:35 p.m. local time July 14) from the Satish Dhawan Space Center in Sriharikota, India atop the medium-lift Launch Vehicle Mark-III (LVM3) rocket.",
+    "Chandrayaan-3 launched from the Satish Dhawan Space Centre in Sriharikota Range (SDSC SHAR), India, on 14 July 2023 on a mission to demonstrate new technologies and to achieve India's first soft landing on another celestial body.",
+    "The launch is scheduled for July 14, 2023, at 14:35 Hrs. IST from the Second Launch Pad, SDSC-SHAR, Sriharikota."
+  ],
+  "keywords": [
+    "India",
+    "Chandrayaan-3",
+    "2023",
+    "launch",
+    "ISRO",
+    "Moon mission"
+  ],
+  "sources": [
+    {
+      "title": "planetary.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEit15_ZssScH127VAJNKn64pQlptKtf0ZtWzR5WM-t5cQdFomkQVLPsAbEdRmZPiti0a7fuOYzxzxCAXt-Ha_Ykmf8r3ixDUCd9R5jNHcoWpaN-U8bF3mPxlwWr4IUrmXFuuQsSP3kysoC7_OjbDL_aA=="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGROv8TAxCCEPRwo-FdweJfFY2AgJvLqnB3uCjNNqfF4qkFcbaax6UGDZDJlZK_4TGm5I_ExIIx_b6Ec1DFpGIl7Z9sJg0jIHMZ-8bJ7RFb1z67eGbb9j3P7G88Zr6jEuEs9nvj7Eo="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZO-Kv02neo1OYS7QSONRe3tWczV8WeFXYq3dJFNvHhM4aBs-WFHSDFGZ8OVbLfsURu-MLvJy69MDLWTfGTvGybAo_n6AVK6NZYEOWmGTKvTPZctvcODZsFilBT8OxYBrppVyH8TrvhU0R9VS3Jw=="
+    },
+    {
+      "title": "eoportal.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHz2nJTJGHSS6FxZOCj-PN5iMT3714fENlKwuEbDwhzb-NauDp3Y1pgC_eFQJY9IOcmLXI3gZAulwW2t30pCUglbCT23dCc714jO6TyrGaSLVg1CYV7paIUod5xCSNKBGkPgIGxI_iwxQy8o2LKUPEw7AP3nw=="
+    },
+    {
+      "title": "space.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoPSzJnY2Jcg6cvw5zFVIFaKbeyeKYrVGozz2cKFAm_ePmqyX9wO7prnJqKgWMo-NPYURVutYY9j9IY0qmfAHB_ow8mj231E1onwrx-HLUi1RhVkDliXkklavzUJ8umnumew3ZlAjGFaTnW3XD0AO3nOHgE6Bg5W4="
+    },
+    {
+      "title": "esa.int",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHkeyhSUSXLKtnkAXFbbNdlsr-IyeM-dzSuYtkRCM-swT4ggaGMx4X75I_8rvDJJ0UElP0uRNCLPCPzx45VMGN1q47pWN-xW2NJ7Ewm49lUhbA9NPxnOrSw8kc41l6j5PX6rasr39OBQE0XUxYDGZtUtYkiGgqFjxenfnh_S_8HmLTa1Liq8UXOOJE3XdWlZ02ufvNOWlnPFGjpj-d6FFY="
+    },
+    {
+      "title": "isro.gov.in",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-xTUMtiTrVXbmD8HSh8OSF4IFok3GhwYoDtI6f3k3KWbGzlhLhEtyQvvJV4DT6MCscEvZTBVuOapHEyYEfVotRXoEFTM5xicg4Znpl8OFkvHM8pCK8sQ4O3s0KdJpZWbsAcRr"
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEV8EbS8zzJ1lHuH3uU2xCcnTGSm2n0sX7HdybytqfMJQgocBVxM-B4PsYE2ociVMqhy78IsITT2LibG3NGujkndkn_kFrz_DQPSzHu51yDaFvhVRJqEFzS2KS_8MH70mZr0jIzfRqJCbm5PmJiiObRdddXT5GMHKDauawhTDFk-OVkZkgIJpNIl-Df5yRKo0sE"
+    }
+  ]
+}

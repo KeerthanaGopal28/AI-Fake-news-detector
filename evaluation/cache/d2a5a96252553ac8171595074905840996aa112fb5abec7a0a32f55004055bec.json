@@ -1,0 +1,89 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The claim that all artificial intelligence systems always provide factually correct answers is false. AI systems, particularly generative AI, are known to produce 'hallucinations' where they generate plausible but factually incorrect, irrelevant, or entirely fabricated information. These systems operate on statistical patterns rather than true understanding, and their accuracy can be compromised by issues in training data, leading to errors and misleading outputs.",
+  "claim_analysis": [
+    {
+      "claim": "All artificial intelligence systems always provide factually correct answers.",
+      "status": "CONTRADICTED",
+      "explanation": "Artificial intelligence (AI) systems do not always provide factually correct answers. AI models are known to generate 'hallucinations,' which are instances where the system produces outputs that sound plausible but are factually wrong, irrelevant, or entirely fabricated. This occurs because AI models are statistical systems that predict patterns based on their training data, rather than possessing a true understanding of facts. Studies have shown significant hallucination rates across various AI models, with some reports indicating rates ranging from 22% to 94%. The accuracy of AI can also be affected by flawed, incomplete, outdated, or biased training data. Therefore, the notion that all AI systems invariably provide correct information is incorrect."
+    }
+  ],
+  "evidence": [
+    "AI hallucinations are instances where an AI system produces outputs that sound plausible but are factually wrong, irrelevant or entirely fabricated.",
+    "AI models are statistical systems that predict the most likely next word or token based on their training data. They do not truly 'understand' facts the way humans do.",
+    "Engineers view hallucinations as an active research problem and a key barrier to reliable deployment... They can be reduced but not fully eliminated.",
+    "AI hallucinations are incorrect or misleading results that AI models generate. These errors can be caused by a variety of factors, including insufficient training data, incorrect assumptions made by the model, or biases in the data used to train the model.",
+    "Stanford's AI Index 2026 found hallucination rates across 26 top models ranging from 22% to 94%.",
+    "All AI models can produce incorrect or misleading outputs; Hallucinations (confident but wrong answers) are a common issue.",
+    "No AI system can be 100% accurate—there will always be the possibility of false negatives and false positives.",
+    "AI systems create answers that are based on patterns, but they are not always correct or meaningful.",
+    "AI systems don't truly understand the concepts they discuss. They recognize patterns in how words relate to each other, but they lack the deeper comprehension that humans have. This can lead to confident assertions of incorrect information because the AI is following statistical patterns rather than reasoning about truth."
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "AI accuracy",
+    "AI hallucinations",
+    "factual correctness",
+    "AI errors",
+    "generative AI limitations"
+  ],
+  "sources": [
+    {
+      "title": "ibm.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqa3YmglmE18jiqvsf7pqnkkL2W3-BEiQnFHFGA_mmySRbjb2sX2xJR_Sq_cfwvvnZJFX8UL498HjW2dd3uVGd04LdZkBsqI1pEefODIpb0SP15mI23p42trOut-60gsMgI9NxZl5w3wxWmge2"
+    },
+    {
+      "title": "google.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWLetiegl-zQTRfnpUbEuf0EwRqVpx3gb5ICjCy7kKkoLIrh5RgdR2RB2d81WNGOh7d8sCCBia6pHWKD342HkrlHkGpqP9fSoNM2tlyB_KR6j-aWglDDRMjQ520iSbS-Mqr2WH6ktNI4Kl0hR0MO3xoQEKe_uLEA=="
+    },
+    {
+      "title": "krater.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTUPu-AB5mGhwXG9js0xYiY9oORBdOBao80UXi-rW9H7Ao0OX6WbJqsZGJzSqW3RJd7JSEVtdFjw6pYf7ydVjNn6KnwgpYRuI_8AMiVU5XF_F5egoVCnlHyKvZLpfYTQe9BlgtOeMrNjZzOpY="
+    },
+    {
+      "title": "stanford.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn5GL_B0zl4j2TDOB8EV7gxAdPrLvq2BoFyM1g7Rv4khiKQvr_R6AE_JrYdsCACGsxWJh1nsvgAP8J9l6fv_E19RDdAGnWmYZzzPLabPAuxub6pT4YvqX7dZRUhha0jJq3aoXtaeOc4hvq_29SVxTErucZoOr-W4M0xw=="
+    },
+    {
+      "title": "presidio.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy_TlX8QkyBkIGTaIBYLsTWnX_L5JPqJJehmu9kmWB3ZXAfWA5HGSS2wgGwh1ekxDeBJgtfwb7ng1iWt8_M2P-JR9Azx-YJzUckpUiM-UJtkRMSUmRcq6zgYJ_Po6NE-LezHJtQdhfKtS60ErVg4r-eYG3PHK7mv8bMhb-isNaxOi_ifloNbB2n-SjYnMDYRyGz6sXBexhznEo_6p5hg=="
+    },
+    {
+      "title": "forbes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvSmdf-tfWHJg18u3EluOi46eo8RTRQvldbiVblwuFPkRGCAnMaWCSNFGmZJbVw7H9HYhqVO_nkRL90bQYMwAIGDG0HadbMDDEUmi-54BXPTESRXjU9xDuUH2Y2xF24kMXL0zEiEOUMEiEknZAxiMETjD84cdWDodZbaNWtQjumQ=="
+    },
+    {
+      "title": "ai.gov.au",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfmD3EKdHvMqUiVSTCpVm8q05ajL-CCa2TPhgfELGDE1ikC0rdfgCSN8vBYkoqlgJFvnGl1eppHtv1eieeAqPTHSLbRQuI5yezE_CW7yW0NF3IcPcm5K9cBOGqXTiZSQxfpcLatNIKbFZyCEUXXYDqKq9N2dI83g=="
+    },
+    {
+      "title": "sandgarden.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwf3LWms1hGRiJNDg2n3yvmrFDCap7PrZlbfNu6trV8ZwDYHD6ODheiG49MX6D-D26TjWzZSz1k8o8Ma6496JA5k6rD4ercAiAn75EnkJXRW6p0ZgipfdfXvFMrcOG6MCQlScmUh3iDr4sSZk="
+    },
+    {
+      "title": "it-s.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1_JGlLhdlksW-cpz7lhgI_IuvjAOIkRj14dkvmLOhqdM6Sc7i3Eji7CCdLeU1zGo9JPfwqiTHyVNl00dojF7qCBnONpg5VK-63qAujiP4RCtQUmEbu8o6fuHPrOWiczxa4MmdahjyaDDvBcxBsuJY6Bzf_tJ5-Gk4gBk="
+    },
+    {
+      "title": "georgetown.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPm1NVSFrfiJqJAKaJlOlKKlbk8peYdivHYBkFWnWuQp67jrRUmIuTK9Ja3QHb6mi7VR_n3ozBF0S5-9ducpEfuX1yabYCZ1BUkdliawxDqERUaPRqhUxgRlTJNeLLzSmuvSzzU9oC8PmvKhuFdJclazlL65I-kJ1XENWLD1VjSiUz7cNXhqsUBtvVMVY1X3d55t5ulvm4evbf3WWgowknQkLD_lLBo63M3bj_9Ic52Fsbp6ed5Xfmh0vSXKK18FO0bIQ="
+    },
+    {
+      "title": "galileo.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzjbvUOwFHH6Pj17IMdHsg1-BCHGG-10YXcrycZAD_4EhopnUEnkeZvO7ivl-to3Yav8o0tsMg3sWnfmX92X__hsrrwxeaU9dbjMMvo1vAjCWZ7a-gZD2WJVn9FqiuEpFrRkvP-G2r6Jp0tZdXUcA="
+    },
+    {
+      "title": "simular.ai",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPrwbeC6oSvcLbBDut6IcO3cmc-yo9jdYxI2y7X8hkFt_F0pJSow0aVVQZeM8bFOvGdu1kxOe18mkSIFLAped07_89wascIP6F0erZTJPZ1FVzEABauTFV9B6vfXS1GQ9ajt_1R9pkzhc2z5fztIF5gYEODYiVp2ICE9Kte4eFs7a9M47qH_szbESboSZ6zFQUvQ=="
+    },
+    {
+      "title": "unu.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGETEQB3c55yF2pMd2mQvWSuK4G1q08Xz72VpKbTwvDHGANidbuJH2FIL5ofeLnZQKdbCj7d4D7XXNDk93Y7-3Xds8w_lVHliqxAomEL3wkaV5K8G2ayaTD3we_KhT849IR8xgI8Kxm9IgzolXQO98Pl5sEGnQM-xCwZ8yufnELoJG_LWg3Gw8UzN_gmD2FXV8Z_25Jo3O8Y0="
+    },
+    {
+      "title": "scienceisus.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVAbTYjOviuPYv6xlEsJSQ5-6UdQFMN-ry2aSK52w-BBgWZJ3qgjJiA_fWtJTnQFdLAeEJ63KxcUSlPhPo_Rwup6ccQqNoKZd0w8F-GuE86nc28_UN8p0yAOzY7FdRBO8fewCjAwFZ4J8LxdH7auJ3HcbOJUGNuUdvJwbVKmJlAr4guww="
+    }
+  ]
+}

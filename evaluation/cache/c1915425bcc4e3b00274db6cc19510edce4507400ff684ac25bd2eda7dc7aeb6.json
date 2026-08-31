@@ -1,0 +1,90 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The claim that every earthquake can be accurately predicted days in advance is false. Major scientific organizations, such as the U.S. Geological Survey (USGS), explicitly state that earthquakes cannot be accurately predicted, and there is no known method to do so in the foreseeable future. Current technologies allow for long-term probabilistic forecasts or provide early warnings of mere seconds to minutes after an earthquake has already begun.",
+  "claim_analysis": [
+    {
+      "claim": "Every earthquake can be accurately predicted",
+      "status": "CONTRADICTED",
+      "explanation": "Scientists, including those from the U.S. Geological Survey (USGS), unequivocally state that it is not currently possible to predict earthquakes accurately. An accurate prediction would require specifying the precise date, time, location, and magnitude of a future earthquake, which scientists are unable to do."
+    },
+    {
+      "claim": "days in advance",
+      "status": "CONTRADICTED",
+      "explanation": "While there are earthquake early warning (EEW) systems, these systems detect an earthquake after it has started and provide warnings only seconds to minutes before shaking arrives in nearby areas. Scientists can also make long-term forecasts that estimate the probability of an earthquake occurring in a general area over periods of years to decades, but these are not accurate predictions days in advance. Despite research into potential precursors like satellite-monitored ground deformation or thermal imaging, none have proven reliable for predicting earthquakes days in advance across significant scales."
+    }
+  ],
+  "evidence": [
+    "The U.S. Geological Survey states that it is unlikely scientists will ever be able to predict earthquakes, and they have never predicted a major one.",
+    "An earthquake prediction must define three elements: the date and time, the location, and the magnitude, which scientists cannot currently provide.",
+    "Earthquake early warning systems detect an earthquake after it begins and provide warnings of seconds to minutes to affected regions.",
+    "Long-term forecasts provide probabilities of earthquakes over years or decades, not precise predictions days in advance.",
+    "Extensive searches for earthquake precursors have not reliably identified any that can be used for accurate prediction across significant spatial and temporal scales.",
+    "The complexity of tectonic forces and the deep underground origin of earthquakes make accurate prediction extremely challenging.",
+    "One study from 2022 claimed 80% accuracy 48 hours in advance, but seismologists recommend skepticism due to the history of unverified claims in this field.",
+    "A February 2026 study concluded that satellite data on gravity changes cannot be used to predict oncoming earthquakes, refuting a previous hypothesis."
+  ],
+  "keywords": [
+    "earthquake prediction",
+    "seismic activity",
+    "USGS",
+    "earthquake forecasting",
+    "early warning systems",
+    "seismology",
+    "natural disaster"
+  ],
+  "sources": [
+    {
+      "title": "usgs.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi0QAKpteAuV3y0Ds0l4NXlh0OsXc5IBjtfbQrhxxH8FLin5_S3hGG0laJ8nTGziQ60gRcXrwoTdttVEb0RditVtAl0UpOx3mFovw16HSi6tdKxZ8lLWc_9Dr9yBK0Ut3y0c_CBbXD8AWZZkaUvecSxNkFb9-GRN47auZM564="
+    },
+    {
+      "title": "facebook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrFSb-D4vL-GV_RuxgqOXBVtfw7JWWS68tdQLcYi7wV0anDeeIOXP05-uwT4NrJWMP1TIr2gWO57kjaT3LgqOwgur3uMPBDJ_A0rku00QHPZTE7nDbXm4wZAJ4OyOaG2uFK8saJcrycgPOgJHVmA5v9nSpOPOJ4hD3otkzmdmEUn2hqSxXn1odXfWnmpfBl3cKXUrBoZOuhJWieml5RWrO4PqmoydjFnn6na99c91VIiDJcJOwv4IBq-DXuqFfTZf5H5_2GQmr4Gg="
+    },
+    {
+      "title": "usgs.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE32z7Lr8SNIvi_kknKESs8_qmOYL-YoVrzQovovATKuszEHiIGsfIkojGnULyztropFqFrrT9J8_a_iII24OFK4CB5Ap4KgVMpAWJ-hp7txKMBYbZ5AdzilpsGMLMGmHfGhf81oNWKjtJA6a8X4TqtYs4="
+    },
+    {
+      "title": "americangeosciences.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHn2iQBj7UHRo8KpJgXNskwsbb9oEuRNTtFqAaRZ-OiOuJiFa8QFzpUunS3RVww9XACEISdpqZpboR7U6go2s1kwszT-bSoUSP7Uj2vOhvH9oZ5yY5Qr4VzQCRRdqRiRtfviQInC252hGRojklSfjwVrqxrDdpBm7ZLqhqZOuVuMmm16XywDiTSR-bac5I6kBY_MPC0RjQVywl4tJqe"
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwEyiJa7k76kpqtlawKrcNL_OJ08xLbEXt8UC3hPSxPGZ-5aZfUiy2q5730E0QxpTIoj1lNfXeYAfZ9RKB4eF2rlzl4rHFsfGs_sgRyhbDJP_EBYhq1ORJ3ZqeNxpzIK0PNqp0IqO7HGrPXNgCeFsn4IRcw9sA4C7xcA2VhrNoVW_OS3eL5WLpNxRNx-TZokNzkeo="
+    },
+    {
+      "title": "utah.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOADYwgUmiJFa_k_Il9D5w_zT9fcG4eDKN7fcDWLYiAsZFb67jziLoL6HksB76k_UvneJGU-h0IIf7kp6z87CgiMbV2JPAf0B1RtQaKscPxNP0ocwG-hu8F08EQ215XuUkJ3O2-fhjLp25pNn6NfrvjkJs"
+    },
+    {
+      "title": "ieee.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkxAo109FQlCeDOOXRx-8NFWJ85EeTga_db6JDf44nZVoBvZQxLPObvn0kiE-I4YqXBcDzbzByC2iE8GW8B8ruJ3PL_G9gpmlA6BTV3QbyIVD6IGi2m8S3V7JNI4UmkH1Lel5bOWroBDS0ZV2EIllLWTZ6t0aKgZqVP4p_zCsHLkaE0zFdAWTMsBSTFVXIhdM="
+    },
+    {
+      "title": "osu.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5ovK2IcMYMgTKIYrJc6_MSaA5E4bgy6BcHoUmcMGw2WmHK6pFoGr5Ngop02LuDRfrIIn2I7U7EwmXRwJYrMBdsOrSxR1YwsQHXUEx-AQaD5hZY8dIIYcRw1HB96qgPdzBkdPbCTPw82FrN4zYaCp2jtdrG_JRAP2H9q2tICl4mope0Cp0JjdkVxPBFA=="
+    },
+    {
+      "title": "geolsoc.org.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYJQdOdF6yAxsFd64P9U59ZR1SCUzf40CvRXDZcGD_YXQaPkSO-ZbJWhK5NDsogpJQSRdvIfWcdEMIKAFO7N9ltWZSaw8833wMteEWvUY4y1gpAipkWxwP47ih78nKJykz-wKF5MAEjn4s9MZWg8fxHQ7X20CheGCJmb20-hGX0-wvK462hHQW8bA7KKp5S1K5TSbr1BXwoBiWrqdv2VytLwYo7nmmkiztsg=="
+    },
+    {
+      "title": "preventionweb.net",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElBCyz_TRsjhp-whFRM-OjLItQI3sjdwEi2_8IVZ3KtZmi4oCQDQVCSjNcR0cQ86P2ilir2Ad95e91ffmYzegCiWiQIS2CFtq0AZTwaVPSPk0weykY1eRRS9HR_nWvJYfBCBjlYTU_5SNYQC9AnGrPxMo7MSQclql0eSgijeval3QKUtpzaBaty4Ntn47JXQjpyvL94e9e8oPo"
+    },
+    {
+      "title": "longdom.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH15S4lCzjjiTiCGlnBayF8dlz9gkOfLl8kApB0Kr8VztnDOcEEjSOl_iAcom02bYgNMPAHEFbKTCn80YevHyg3u9RQ8fjcq3BKwIgXwmL1z7Wu7c7mYCXVZN1ro7YzowBIjByvAVZj816A2YTIX3Hqgi4zMIqBd4Ig-1pNw5XeDSz62K0xLPWCxCeu0uYWHEhsHO4F5WE-fzWCFb7cGJtx9lkvLR54OGVf3fTvK8ZtyIrmHKf4"
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF09Ye054T0Fep2SAT4GlchKsvORZpMXvCPUPFKOJ6pM0OdfCyDPdUgPN0ooz0gdeZpsrWuJMpLRMp3tGlKUzc7oCY9rg7pJW6PYqR8O1fjQtqiM9wzXBxjG6onAvbi7OGqJWLNXzesIvPnc0As"
+    },
+    {
+      "title": "reddit.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFSzPj4XpHNxWOR8YC-Eu4PP9IQRVt2EU0bqc1RzafpkU1nQ7dEyenuixt5AgMxCWmND0oOpbSh3mEoF7zA5eTDzW-ZZazZDf0IAnFcVZHtulldPz4txOVYrFpBweMcZAQgE_0CjnQDX4njbC_ABsXDNomuXuciUCSRqk2LZ8KDCp5lPZanW_OyMjJRwbzuIDCROjWEOD5OYs8fFB-mZA=="
+    }
+  ]
+}

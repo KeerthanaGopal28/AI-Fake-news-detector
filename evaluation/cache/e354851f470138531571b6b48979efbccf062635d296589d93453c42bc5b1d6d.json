@@ -1,0 +1,84 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The claim that the Moon is larger than Earth is false. Scientific data consistently shows that the Moon is significantly smaller than Earth in terms of diameter, mass, and volume.",
+  "claim_analysis": [
+    {
+      "claim": "The Moon is larger than Earth.",
+      "status": "CONTRADICTED",
+      "explanation": "The Moon's diameter is approximately 3,474 to 3,478 kilometers (2,159 to 2,160 miles). In contrast, Earth's equatorial diameter is about 12,756 kilometers (7,926 miles), and its mean diameter is around 12,742 kilometers (7,918 miles). This means the Moon is roughly one-quarter or 27% the size of Earth's diameter. Additionally, Earth's mass is about 81 times greater than the Moon's, with the Moon's mass being only about 1.2% of Earth's mass. The Earth's volume is also approximately 49 times larger than the Moon's."
+    }
+  ],
+  "evidence": [
+    "The Moon's mean diameter is 2,159.2 miles (3,475 km).",
+    "Compared to Earth, the Moon is less than a third the width of our home planet.",
+    "The Moon has a diameter of 3,475 kilometers, which is about a quarter of the size of the Earth.",
+    "The Moon's diameter is 3,474 km (2,159 mi), roughly one-quarter of Earth's.",
+    "The Moon's diameter is 2,159 mi (3,475 km) and its circumference is 6,790 mi (10,864 km).The moon is 27% the size of the Earth.",
+    "The Earth has a mean diameter of approx. 12,742 kilometers (7,918 miles).",
+    "The diameter of Earth through its center is 7,926 miles (12,756 km).",
+    "The Moon's diameter is about 2,160 miles (3,478 kilometers), roughly one-quarter that of Earth, and Earth has about 80 times more mass, or weight.",
+    "Earth has an equatorial diameter of 12,756 km (7926 mi).",
+    "With an equatorial diameter of 7,926 miles (12,756 kilometers), Earth is the biggest of the terrestrial planets and the fifth largest planet in our solar system.",
+    "Earth has a diameter at the Equator of about 12,756 kilometers (7,926 miles).",
+    "The Earth's equatorial radius is 6378.1 km; the Moon's is 1738.1 km. The Earth's radius is thus 3.67 times bigger than the Moon's. The Earth's volume is 49.26 bigger than the Moon's.",
+    "The diameter of the Earth is 12,742 km. This means that the Moon is approximately 27% the size of the Earth."
+  ],
+  "keywords": [
+    "Moon size",
+    "Earth size",
+    "Moon diameter",
+    "Earth diameter",
+    "Moon vs Earth size"
+  ],
+  "sources": [
+    {
+      "title": "space.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErpfvF8P6eE-oZF-X6O-KKa7urupmNZacwUtfiUoIYz_sN2mUpVBED_-0zzWCj8qllrQHA25kH1XBMN5g1Sz2bGVjlAi0NvTTDBF_Kj-jPH0TsQBZXkmkZ5jJwWj0692jBtrvv-p_1FsEaX8RxXQ=="
+    },
+    {
+      "title": "slooh.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOtn0uXP9Jv5tjwigzmtX9LNAFyn_wzDt3mc01RVLsZvgDlXYLhgeZ2EWgCrQlXF6UyK_c_61hyTM_-fRGYANV3WpZvHx9AWP35DwHqyq1qwmBaDZijQEV38J4dsq2chlDPuCxNJTf4g=="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHr9ZpWja9Wv4UlB5gvINanwY_T8CIRTa4IFbDYPu_lfkFs747p0MqycOcCRe6HUKli6Wk1ccEwDAdBI-KhvC8CvYjuh3VboIiiAfMucNXIdoWG5faw-3pixs0P-w=="
+    },
+    {
+      "title": "britannica.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbSxjosaHC8hF5xtuPhVY14KRLjdZnBschQ5d82MtV5w6FU6O6zk9GC3hScFZuuT5Dp-xXTC1TTT_5ifKHq7wHrYgENs3ypT0EcylB5iiIrp8kqM-seyWWN_pQa68rqR7iplepiAbIou4h1N6sANNK"
+    },
+    {
+      "title": "space.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgZQeD_euh7n4MiVe0cT61_zlNzUWyRKg38K1uZuQ5muEas5Qb7ZT8GxsQAQve7PiBtW7BMP-kUytUKT2niCZtzzCltDNADyidzC84SI1d_zlNhDH0ffoZNfnTBPRYKW3jLeCJuRdXc0qOHw=="
+    },
+    {
+      "title": "nasa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRwij76zRlUB2_-lQv-x6xl79N9wo_G6j38nLBukYaeZe_YQVrDfUxXfmgXqzh46OD-0oFRBswQEleHJV9oUFjPa7Uk5IcfGGNxeIPlQlfmNwrLHLYN0NuoWm3vYF_HQ=="
+    },
+    {
+      "title": "britannica.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfqW6lFkOnkV0Pi9_VBEXvmQ1Ko2rGiAg-dVnwCS8K12SpB4Q5_ZmfCG2pkvPsOx-SaeJ_icm9Fhtlb-iUFZm4U_4fq75PJI98OdbSKHIwBYeYVC8H4Aq0aTXae0KYlGwdYHeqq9iKn-53Hm2R"
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGupMshppz64MpWJs3CJMZCkoPcieXMjqzdcHEhqkrhRFfo0M6p5y4_OQl7hpIXJ-g-oe12kB8GULAjsDWCWwYvxdYlGuPQw25EqgdLtMfH7fm5hY1ILjxQ09t3QYj7H3y3mAxuCMUtpDBIDaN3hN_S9LHft8YNm4Ee4vW9-zqcDckqbFm7ddjWGNjdIiHwprbFJbPw6zQw8vLt2-hS331vag=="
+    },
+    {
+      "title": "universetoday.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZb5bety4FObRRR41zlCditaPgDQveqaoNAMCPGZP_VCUeP1YgceDaueiKLD0QOA8RHdOhrCvFXsboX-bzU1Ew1eYw6CQaj1N_xM3iN93IK0tzaPumcPu8mmFi8JW66x31A4EMFmgDLaJVe0cq7s6-DTs="
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGt-gc4wjJhsfEpSi4uyJQ9pQaJzyZ4qvxusaMk8z10POEU2RNrqz3_sKIP-kJB9gaOzATPMcBusn0JQ-pfZL39cspM0olgdwDSIfFecJgeJ25TyaNMZSPrLj7BpZDjLCF1sB0ygBY0qRSWWDd0RjS-uTTvDxE83WALga49UEP2u63mnF8m"
+    },
+    {
+      "title": "universetoday.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjdtvKKL2-9Jzb34HbiJO7iIW4WUDc_D1WKi2z2BhfRsgN2SsaTXUxOCwWJYWUOtbP55VlnBaZTu2AdYNM91qtPHFCdTjMZNKAsvvAdi9Pm5RkicfcKUFG2C9lbljh2BhiTVY4Fi1EtP7QQG1HxRIU8nohrcGEaw=="
+    },
+    {
+      "title": "hypertextbook.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeqAueYZ09LCV9uZHY6t6i0GC2GHMfkFIbO4YBieM7lfxC4Z-Q8oPkwycgVXPUeoE6xunsC_hUlYQUcKmrYEMGUQVQ8--pkZ3HBl8Agj4aEYb9MWz7aMcXx0u_UDsp1Evnn1W6tNy5t97DU0gWP7aY3Fcq"
+    }
+  ]
+}

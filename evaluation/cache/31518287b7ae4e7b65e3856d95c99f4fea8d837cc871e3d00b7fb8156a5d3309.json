@@ -1,0 +1,58 @@
+{
+  "verdict": "REAL",
+  "confidence": 100,
+  "summary": "The claim that the Pacific Ocean is the largest ocean on Earth is real and well-supported by multiple reliable sources, which confirm its vast area and volume compared to other oceans.",
+  "claim_analysis": [
+    {
+      "claim": "The Pacific Ocean is the largest ocean on Earth.",
+      "status": "SUPPORTED",
+      "explanation": "Multiple sources confirm that the Pacific Ocean is the largest ocean on Earth by both surface area and volume. It covers approximately 165.25 million square kilometers (63.8 million square miles) or 182 million square kilometers, depending on the exact definition and measurement method. It is roughly twice the size of the Atlantic Ocean, the second-largest, and covers about one-third of Earth's surface, being larger than all landmasses combined."
+    }
+  ],
+  "evidence": [
+    "The Pacific Ocean is the world's largest ocean, covering an area of 182 million square kilometers. It is twice the size of the next largest ocean, the Atlantic. The Pacific Ocean covers approximately one-third of Earth's surface and is larger than Earth's entire landmass area.",
+    "The Pacific Ocean is the largest and deepest of Earth's five oceanic divisions. It encompasses approximately one-third of the Earth's surface, having an area of 165,250,000 km2 (63,800,000 sq mi) – larger than Earth's entire landmass combined, 150,000,000 km2 (58,000,000 sq mi).",
+    "Covering more than 30 percent of the Earth's surface, the Pacific Ocean is the largest water mass on the planet. With a surface area of more than 155 million square kilometers (60 million square miles), this ocean basin is larger than the landmass of all the continents combined. Additionally, it contains almost twice as much water as the world's second largest body of water, the Atlantic Ocean.",
+    "The Pacific Ocean holds the title of being the largest ocean on Earth in terms of both surface area and volume. Covering approximately 28% of the world's surface area, it extends from the Arctic Ocean to the Southern Ocean.",
+    "The Pacific Ocean is by far the world's largest ocean, more than five times wider than our moon. Covering about 63 million square miles (163 million square kilometers) — more than 30% of Earth's surface — all of the world's continents could fit inside the Pacific basin.",
+    "As can be seen, either numerically or graphically, the Pacific Ocean is by far the largest body of water in terms of area covered and volume.",
+    "At 168,723,000 square kilometers (about 65,144,000 square miles), the Pacific is the undisputed heavyweight of the planet's oceans, covering roughly 46.6 percent of the global ocean. That is nearly half of all the seawater on Earth held in a single basin."
+  ],
+  "keywords": [
+    "Pacific Ocean",
+    "largest ocean",
+    "Earth",
+    "ocean size",
+    "oceanography"
+  ],
+  "sources": [
+    {
+      "title": "ebsco.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_OGkFix_oAv-UPUr7Qb4e8AgSBMorXCwr2oII5QRuF-wHtlv_TSO0_QeyRtiFttnPlwPTOTi29vwSENwMNOnTXeLJRxakSmfwCBYAlv8RL1xSbKe46l4kSNNpWr1DHXSTzpX2dEo58wp0_aC1GmtVulFxtkw8WurFvWIhMb4YESRWZEJGuw=="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHftM9cPo7xI40_3G32NLjt1o2oMNIYe0_XCF5ituEsbd3W88pSo2KR9QpMn90sRJ3Rlfb-rh_TPpv37nWjtvPtqX8RslXU7IB0CUyWf1Cvz0SUeWUuZpGJp_LYMWBs_di2iA5oIQ=="
+    },
+    {
+      "title": "noaa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-f-b1j5hSUayXx97e1kNsCeSk5xFuZq_lRxdh0JWf5pWWP_n2Jp0zwVs5RvP2_oSxYIFKmSzyBAt8-Vu8hcA-ZK5Ou_yrTXiZBqAeLvkf6h3ETYpd8j4nTpjaihdWILL1JxYmem_CSy_k_Q4VL0e_xA=="
+    },
+    {
+      "title": "quora.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWchCrjbzypMJ4AC1VGbSKjSjoieDhJVXOmbIYixeB49HlSp3XqJD0znVPRkb2fI-O2tVB7CaSUtHftfrEC6GB7Mb_crkGC-RiRaiBdXOoVCim7yRZBM31f5wVO_f6H8kqa8cgZ6t9q0Eb-_v0Mu8JwOnn3dxFPBdHLNw2gl7TXZAYzmogzkkcbGnCXbyFApWxiw=="
+    },
+    {
+      "title": "livescience.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVSb4cPkyUPVyvZLG4rE1Lh84MdV_NcEdjuHFaz6o73Vu-juhu09KNLgY-NMFqtVCYTBSqxpgEge-4Cx4pVsn9Idza2LVxZ_Fbvr4IgBFRBlw3sdQCMs5Y4hMsmVprA6PIvOeSCWYaPgM3Glp34dyM4vghESiPLbOS8vy8tMyx-qt9Txs8Njn7KXZ4NdWSj2A="
+    },
+    {
+      "title": "thetidesofhistory.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF7TEY3k56F66xCKq-OtKpkfSOOzv5iQq72-LkzmlSK4Yhwx6bV9XL8qiz3KSoZrpF2SOwYhO6QruMB9qmPqxPyg_rKqZuSDTh0dxWwmgSGz0jfgcjegqH0LAXFnm8PKvkaqb-Z2ZjC0X9b-YFOeX-WqkxluVFcdbxE7w9eC4GjKJ8pTxV1WQVBuqg2"
+    },
+    {
+      "title": "worldatlas.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN3RmiRPo7NxF-kmDFs3zFivvgC5NaieOg4jemGo2L3oGKjxaIdMCx0i9KzCpSnkkCQu-E9Ik1xy43HwH1Gp1NFHEjB-M9E9f8kv5umcu13Bnsc9nx0lOUDyWKQ9DzLPFSaYpHtOIV2QwPVURgErNhfpGnHNPn84kuP8sDc33IQn0H9Tu_Ug=="
+    }
+  ]
+}

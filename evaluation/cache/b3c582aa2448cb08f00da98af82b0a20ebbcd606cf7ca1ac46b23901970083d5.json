@@ -1,0 +1,60 @@
+{
+  "verdict": "MOSTLY REAL",
+  "confidence": 95,
+  "summary": "The claim states that the speed of light in vacuum is approximately 300,000 kilometers per second. While the exact, defined value for the speed of light in a vacuum is 299,792.458 kilometers per second, it is widely and commonly rounded to approximately 300,000 kilometers per second for general and many scientific purposes. Therefore, the claim is largely accurate in its approximation.",
+  "claim_analysis": [
+    {
+      "claim": "The speed of light in vacuum",
+      "status": "SUPPORTED",
+      "explanation": "The speed of light in vacuum, denoted as 'c', is a fundamental physical constant."
+    },
+    {
+      "claim": "is approximately 300,000 kilometers per second",
+      "status": "SUPPORTED",
+      "explanation": "The exact speed of light in a vacuum is defined as 299,792,458 meters per second, which converts to 299,792.458 kilometers per second. By international agreement in 1983, this value was fixed, and the meter is now defined based on it. However, for many scientific calculations and general understanding, it is commonly rounded and referred to as approximately 300,000 kilometers per second."
+    }
+  ],
+  "evidence": [
+    "The speed of light in a vacuum (c) is exactly 299,792,458 meters per second (m/s).",
+    "This value is equivalent to 299,792.458 kilometers per second (km/s).",
+    "Since 1983, by international agreement, the meter has been defined as the length of the path traveled by light in vacuum during a time interval of 1/299,792,458 of a second, making the speed of light in vacuum an exact, defined value.",
+    "For most physics calculations and general reference, the speed of light in vacuum is often approximated or rounded to 300,000 km/s."
+  ],
+  "keywords": [
+    "speed of light",
+    "vacuum",
+    "kilometers per second",
+    "300,000",
+    "constant"
+  ],
+  "sources": [
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGqjRCPNhmnfuWuGst9jGUNH7Gwe31qTGMHWp1rfP88J07XrQ9NjlE3YUwf_zXb1ACdBkSTGpE4CyxUt7Zstv7eXcAS7WAr4NUMxeeQ6UtFhYHZSD5rLcrDCZtVA5ro8n9xSyj9hMkG"
+    },
+    {
+      "title": "space.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI_JB8zKR0_xOyEAM94NxBZ6V6mFAomJqFerl4iNmV7KTGC2z2VvGN1m1sjjvtNyxQvePGtoJ4EK_q0tsfD1hHD5sXkLn9wfmPI0xWiK2zp73BFpMaiyHdZEUTEg-wITiPlEUD5sjY"
+    },
+    {
+      "title": "ucr.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG62DZj0cioerfsQT3QgTg1W4aQFoCadX6aNDHSSeTJduTpsE4IecvE3B8KvGk-5J1ZwHC_Bvqj-6ndmNuS0g4rA3aluSAadg1Y22DI0Z8WJ_2fz8QKcq8gQ732LyzVpO0OQurjLa8yg2c4jJ4gmWUZ61Lt1PiAW7dbjm7cjenQMTTVsXOwr3pKsvngM0="
+    },
+    {
+      "title": "physicsfundamentals.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMHRlCpdCa-ki4QeeAwbZjY2452ttvzY-Mo3Vezj6LArqfr14rdeqHrVY-csZ6Y0Bur3aQB5yxk8F1BrfmzDTcVe5wigHeIlBdMPukoWuMnp4CATzZeCHwBLcaFWfLnOS2ABcOna-zpz22UNA3wQ=="
+    },
+    {
+      "title": "lyco.co.uk",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpHMD0rMnQQElm_Zuh5_1CmG68VK9W209zWgAn_8kEUnOofqtxV8nL-YVCOLlPvgYjfQCgwjquKR5_mFb7JXEWtz2aTH1Aomx6BTMgp1EdP9GoCl8H7DoYYe-QQuks8eTkx3PVjE9xXQxkwuVF1I2d7M0aL2ms-SYc_g=="
+    },
+    {
+      "title": "fsu.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvS7V5XYvD2vhFFsTgEk7VGT3gXIKDwWgWMBGXnEwJ2szr4VUbOkVW5SJPAHBYsv25EjLoxV2XP2Aq4T_kwhXM6OpXDbMWpOXlonGjP7A1_4b2qwCd7jsbPFltSYNG7JZczMgSGSm5ckiHOuWaibvXxkdlSG_QihdX5jXg-HY="
+    },
+    {
+      "title": "evidentscientific.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGy-wcYh9rOvLYjHJsHQe4IFZVmx9Wb0ZJC1vfVPPtlWKkaT1htKpnrlI7GAEC0Ne7aTOjrANAC8zG89qKkvWSAw2yfPwrENx07EP78uLYXiQ0A1mKUQq63CC6P5w2q4i2SkxCoFls7gDGzxj9FVT5hN54WTDEUqE2eOZYjfaZRbNp1ePg-skcdHac-OjAnF3RTF4CgCfJ95g=="
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "verdict": "FAKE",
+  "confidence": 100,
+  "summary": "The claim that the Great Wall of China is visible from the Moon with the naked eye is a pervasive myth and has been definitively debunked by astronauts and scientific evidence. The wall's narrowness and low contrast with the surrounding landscape make it impossible to discern from such a distance without magnification.",
+  "claim_analysis": [
+    {
+      "claim": "The Great Wall of China is visible from the Moon.",
+      "status": "CONTRADICTED",
+      "explanation": "Astronauts, including Neil Armstrong and China's first astronaut Yang Liwei, have confirmed that the Great Wall of China is not visible from the Moon. NASA also explicitly states that the wall is not visible from the Moon."
+    },
+    {
+      "claim": "It is visible with the naked eye.",
+      "status": "CONTRADICTED",
+      "explanation": "Experts and astronauts universally agree that the Great Wall of China cannot be seen with the naked eye from the Moon. Its apparent width from the Moon would be comparable to a human hair viewed from 3 km away, requiring visual acuity 17,000 times better than normal human vision to see it."
+    }
+  ],
+  "evidence": [
+    "No, the Great Wall of China is not clearly visible from the Moon, and it is generally difficult or impossible to see with the naked eye from low Earth orbit. This is one of the most repeated Great Wall myths.",
+    "The Great Wall is not visible from the Moon, and it is not normally visible to the naked eye from low Earth orbit. It can be photographed from orbit under special conditions with appropriate equipment.",
+    "Every astronaut who has searched for the Great Wall from orbit gives the same answer: It doesn't stand out to the naked eye. Its low contrast with the ground keeps it hidden, even from a trained eye looking straight at the spot.",
+    "The Great Wall of China cannot be seen by the naked human eye from the Moon which orbits around Earth at an average distance of 384,399 kilometres (238,854 mi).",
+    "The apparent width of the Great Wall as seen from the Moon would be the same as that of a human hair viewed from 3 km (2 mi) away.",
+    "A popular myth, the claim was disproved when astronauts stated that the Great Wall of China was not visible with the naked eye from the Moon.",
+    "The Great Wall of China is not visible to the naked eye from space, even in low-earth orbit, according to NASA.",
+    "Not even the best of human eyes at a simple glace could see the Great Wall of China from Space. The impossibility is due to the limitation of the human eye when it comes to seeing small diffusing objects. The relevant parameter is not the Wall's length (about 7300 km), but its width, which is usually less than 6 m.",
+    "The Great Wall of China isn't visible from space with the naked eye. Its width tops out around 9 meters, too narrow to register from orbit.",
+    "China's own first astronaut, Yang Liwei, who orbited Earth 14 times in October 2003 during the Chinese space agency's Shenzhou 5 mission stated: \"The Earth looked very beautiful from space, but I did not see our Great Wall.\"",
+    "Astronaut Neil Armstrong said he saw continents, lakes, and blue dots dotted with red, but he couldn't see any man-made objects on Earth from the moon.",
+    "Viewing the Great Wall from the moon is like looking for a strand of hair from a distance of 3,000 meters (3,300 yards).",
+    "A viewer would need visual acuity 17 000 times better than the norm to see the Great Wall from the Moon."
+  ],
+  "keywords": [
+    "Great Wall of China",
+    "Moon",
+    "naked eye",
+    "visibility from space",
+    "myth",
+    "astronauts",
+    "debunked"
+  ],
+  "sources": [
+    {
+      "title": "greatwalltravelguide.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoAze37m9bscgzt6IQ_7V8TZAtMItyasunChr5ilNKKtPH6SU8WtcDm78Jqu1PxQVS5HqNv7w6QQMpGo1LcSq9tKGTsPdCadVIslDrgkQp8UkDmZKrk-QE2IWiNa6LrbknFfd91SmS8rwkR_VExp8b3yFyRGItxscDkqkjMovnuA1XoGPB7NKGREVq"
+    },
+    {
+      "title": "nibble-app.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE95JqOEWSQei0PHKB2J86dy06fBbeFKdp9o2FmGzJdGyYsJjSw_ayONSIQ-YiLQ446V9qfLDX5xLqjmFZP9n4vR1PzRa3FHrNyVhOPXV_HcDdIl7JN5fRlIBqYeGwJDNo6_znPM7vELkc-XyoxZqce5mHj-QzsyzPLymlg1vwzDnydBAc="
+    },
+    {
+      "title": "britannica.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH_wqecQCprq7Fl8p_Vmf2clfRDS8Lcg-WBxiIWkONuIpShdzkmWNODQzlFEe1_XrOyoF4fQooSk8yLga7Eu3ygcWS_0zZHSNGil7Y594HfBlz2-M_YpCkvZOEj-Cvz8mmrpQ5o8jIrnT9nwfRNTiGrj0oBxDLIvasyuK4R5shsaEIXjgyJaxaoewnxXM8="
+    },
+    {
+      "title": "nasa.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEkU1Dta3qb8Q1_yzrF4xiP7wsG8Nbx55dVeyt3PhUn6gpkb5D-iCVLRB0VKcJF_6Lb8vkO6TdUiEMehUqi2TV89Yn6psudyyPLQPBhJewZwi_GFURB3w-7wFypEENqG4RqwUfRl5-5rbk="
+    },
+    {
+      "title": "snopes.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvmItVonkVifQNLXofSWnqNH32nEcDsOduGS4NeOioV42TS5bl9luj166WKW_CDofytTXvGiNgs3E1ydF8Jx1tShfpvWL5V-_UoMURiBGdQEywswvnyNF4oABdanWfk18vrbQ5segVAzwT6a1T4AyHvCo="
+    },
+    {
+      "title": "travelchinaguide.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGvJIjj3xPIZUhWpJPym3CfPlfiruK0TDUlENnxNBk79u8dEe6mZOC6-NPml3_WeZGU73SdOWfR2aNDwPkh1U1tPVvOTi0qFQuS3XcVnuKalRX0yUBM-MMww_orksK9XYU-yYzPoyuV-sGmF3GREvc7Ct7aZa2nykpJgvalSAENK1rrjFHU9Q=="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFv4K397ojMbb_ab0nKf3KsHQn4LKp80bTbOMU1Orj-UZlp5c0ZDZKQRHAhFehr7DHZer868FmaFVlX9I-qKE4CxGWHRbdE6OaICxGVu6MqnZ1Y3ZssnypGM9RCjd8IZ7Bv6bQ0RGGtd1nLT0w="
+    },
+    {
+      "title": "nih.gov",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEftMGpzRUXPSOfg5Cs1w4HT8gwnVtT-pj0dI9cXGjzwT8qaYm0fpVC8MRW3t1KlxZk0eJf8_dgstgn71zmXQxBtWx9yLEuQzuFGNWUqPQ13Jrm8AWNV4uTCNbLR94fp4wzsWBJy1bffBL3OZk="
+    },
+    {
+      "title": "skyatnightmagazine.com",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfxoxjMkdvsEGwNF_WTW-kbcMEfBXKqBHHqiFqpS9ZIMcnX0pbfg50LCoxSmx1w5en-RVtSsQ8JTfESsGeYgwcKheipI4N40nx8oKsKR4wbivuDrBd1kTQ5JT_ZfGlHGoB_2pOb9mfdRrVZ1nvLaKwhz6MHgeuumAQLmXl5UXXpJhnmus7Wwl1o-2Gi3TDAzw_DuI="
+    },
+    {
+      "title": "wikipedia.org",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkT19onWKl_Y_bNl7wQqCBorAihF7Y45Q28knUYdj4bvtMfGM9KjeJakwOXGtXjjQdsszYBIFUv6svRR0nEURN-rCLo24a5xE8uTYKjtMHhdy-X4yKE9jJGPHKFyVG_tfUeMG-KVIZatPstSXfw4OqNcXl5_VsEByRgvVj96KVAqE="
+    },
+    {
+      "title": "wtamu.edu",
+      "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGroD2ucUUjvp2pdVolprHc8WZHmU1mqEf_ox7rPZSrtRJewIWws0oldPN9PaFe2mRH0Tqh_JtvpOlKJuGL_2c5_JEHS9wWUIS4tJmZp73rU-Q7j7UqXUTgciSyJWkfzXwbMhB5dGAxokc1hbx34e0AoeYvlmXxslzLJfwXICKaQiBcnMK8zjy55cV_ZIyJD_U2nQ5Cp024WKaImmRhdYTvE-Bmr8rTw10GX_TNKQmvAHuOmvr5_w=="
+    }
+  ]
+}
