@@ -1,6 +1,6 @@
-# Real-Time AI Fake News & Fact Checker
+# AI Fake News & Fact Checker
 
-An enterprise-ready news credibility assessor built with **Python, Streamlit, and Google's Gemini 2.5 Flash model**. The application leverages **live Google Search Grounding** to evaluate real-time claims against current web information, helping overcome static LLM knowledge cutoffs and reduce AI hallucinations.
+An AI-assisted news credibility assessment tool built with **Python, Streamlit, Gemini 2.5 Flash, and Google Search Grounding**. The application analyzes news claims using current web-based evidence and generates an explainable credibility assessment with supporting sources.
 
 ## System Architecture & Execution Flow
 # AI Fake News & Fact Checker
@@ -16,47 +16,73 @@ Streamlit, Gemini 2.5 Flash, and Google Search Grounding.
 - Session-based state management
 - Structured response parsing
 
-## System Architecture
-[diagram]
+## System Architecture & Execution Flow
+
+```text
+┌──────────────────────────────┐
+│       User Input / Claim     │
+│      Headline or News Text   │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│       Streamlit UI           │
+│   Input + Result Dashboard   │
+└──────────────┬───────────────┘
+               │
+               ▼
+┌──────────────────────────────┐
+│    Streamlit Cache Layer     │
+│       @st.cache_data         │
+│          TTL: 1 hour         │
+└──────────────┬───────────────┘
+               │
+        ┌──────┴──────┐
+        │             │
+    Cache Hit      Cache Miss
+        │             │
+        ▼             ▼
+┌──────────────┐  ┌──────────────────────┐
+│ Cached Result│  │   Gemini 2.5 Flash    │
+└──────┬───────┘  │     AI Analysis      │
+       │          └──────────┬───────────┘
+       │                     │
+       │                     ▼
+       │          ┌──────────────────────┐
+       │          │ Google Search        │
+       │          │ Grounding            │
+       │          │ Current Web Evidence │
+       │          └──────────┬───────────┘
+       │                     │
+       │                     ▼
+       │          ┌──────────────────────┐
+       │          │ Response Processing  │
+       │          │ Verdict • Summary    │
+       │          │ Confidence • Sources │
+       │          │ Keywords             │
+       │          └──────────┬───────────┘
+       │                     │
+       └──────────┬──────────┘
+                  ▼
+       ┌──────────────────────┐
+       │   Streamlit Dashboard│
+       │ Verdict + Evidence   │
+       └──────────────────────┘
+```
+
 
 ## Evaluation
-Tested on a labeled dataset of 20 claims.
 
-Accuracy: 89.47%
-Weighted Precision: 84.74%
-Weighted Recall: 89.47%
-Weighted F1: 86.98%
+The system was evaluated using a labeled dataset of **20 news claims**.
 
-## Limitations
-- AI-generated assessment is not guaranteed to be factual.
-- Search results may vary over time.
-- Important claims should be verified using authoritative sources.
-```text
-[ User Input / Headline ]
-          │
-          ▼
-[ Streamlit UI Dashboard ]
-          │
-          ▼
-[ Streamlit Caching Layer (@st.cache_data) ]
-          │
-          ├── (Cache Hit) ──► [ Fast Cached UI Render ]
-          │
-          └── (Cache Miss)
-                    │
-                    ▼
-          [ Gemini 2.5 Flash Engine ]
-                    │
-                    ▼
-          [ Google Search Grounding ]
-                    │
-                    ▼
-          [ Structured Response Parsing ]
-                    │
-                    ▼
-          [ UI State Rendering ]
-          (Verdict, Summary, Keywords)
-```
+| Metric             |     Result |
+| ------------------ | ---------: |
+| Accuracy           | **89.47%** |
+| Weighted Precision | **84.74%** |
+| Weighted Recall    | **89.47%** |
+| Weighted F1 Score  | **86.98%** |
+
+The evaluation measures how well the system's generated classifications matched the labeled dataset. Results may vary depending on the claims, available web sources, and model responses.
 
 ## Key Features
 
@@ -78,6 +104,11 @@ Weighted F1: 86.98%
 | Caching              | Streamlit `@st.cache_data`   |
 | Session Management   | Streamlit `st.session_state` |
 
+## Limitations
+- AI-generated assessment is not guaranteed to be factual.
+- Search results may vary over time.
+- Important claims should be verified using authoritative sources.
+
 ## Getting Started
 
 ### Prerequisites
@@ -89,8 +120,8 @@ Weighted F1: 86.98%
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/fake-news-detector.git
-cd fake-news-detector
+git clone https://github.com/KeerthanaGopal28/AI-Fake-news-detector.git
+cd AI-Fake-news-detector
 ```
 
 ### 2. Install Dependencies
@@ -125,16 +156,26 @@ The application will start locally and can be accessed through the Streamlit URL
 ## Project Structure
 
 ```text
-fake-news-detector/
+AI-Fake-news-detector/
 │
 ├── app.py
+├── fact_chcker.py
 ├── requirements.txt
 ├── README.md
 ├── .gitignore
 │
+├── evaluation/
+│   └── evaluate.py
+│
 └── .streamlit/
     └── secrets.toml
 ```
+## Limitations
+
+- The system provides an AI-assisted assessment and does not guarantee factual accuracy.
+- Results depend on the quality and availability of retrieved web sources.
+- Model responses may vary between evaluations.
+- Important claims should be verified using authoritative sources.
 
 ## 📌 Disclaimer
 
