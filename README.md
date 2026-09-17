@@ -3,7 +3,46 @@
 An enterprise-ready news credibility assessor built with **Python, Streamlit, and Google's Gemini 2.5 Flash model**. The application leverages **live Google Search Grounding** to evaluate real-time claims against current web information, helping overcome static LLM knowledge cutoffs and reduce AI hallucinations.
 
 ## System Architecture & Execution Flow
+# AI Fake News & Fact Checker
 
+AI-assisted news credibility assessment tool built with Python,
+Streamlit, Gemini 2.5 Flash, and Google Search Grounding.
+
+## Features
+- Real-time web-grounded claim analysis
+- Verdict and supporting summary
+- Source-based evidence
+- 1-hour response caching
+- Session-based state management
+- Structured response parsing
+
+## System Architecture
+[diagram]
+
+## Evaluation
+Tested on a labeled dataset of 20 claims.
+
+Accuracy: 89.47%
+Weighted Precision: 84.74%
+Weighted Recall: 89.47%
+Weighted F1: 86.98%
+
+## Tech Stack
+...
+
+## Project Structure
+...
+
+## Setup
+...
+
+## Security
+...
+
+## Limitations
+- AI-generated assessment is not guaranteed to be factual.
+- Search results may vary over time.
+- Important claims should be verified using authoritative sources.
 ```text
 [ User Input / Headline ]
           │
