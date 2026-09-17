@@ -27,18 +27,6 @@ Weighted Precision: 84.74%
 Weighted Recall: 89.47%
 Weighted F1: 86.98%
 
-## Tech Stack
-...
-
-## Project Structure
-...
-
-## Setup
-...
-
-## Security
-...
-
 ## Limitations
 - AI-generated assessment is not guaranteed to be factual.
 - Search results may vary over time.
